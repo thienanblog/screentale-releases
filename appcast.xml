@@ -7,6 +7,52 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>0.2.0</title>
+      <pubDate>Tue, 08 Sep 2026 13:50:34 GMT</pubDate>
+      <sparkle:version>102</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v0.2.0</link>
+      <description>&lt;h2 dir="auto"&gt;New features&lt;/h2&gt;
+&lt;ul dir="auto"&gt;
+&lt;li&gt;Crop directly in the preview, with center snapping and precise framing.&lt;/li&gt;
+&lt;li&gt;Choose from six editable gradient backgrounds, reuse imported background images, and carry your preferred background into new recordings.&lt;/li&gt;
+&lt;li&gt;Check for updates in Settings → About and control automatic update checks. Automatic checks are on by default; existing opt-outs are preserved.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 dir="auto"&gt;Improvements and fixes&lt;/h2&gt;
+&lt;ul dir="auto"&gt;
+&lt;li&gt;Adjust Clip Speed with a slider and consistent speed controls, with safer editing at high speeds.&lt;/li&gt;
+&lt;li&gt;Use Undo and Redo directly from the timeline toolbar.&lt;/li&gt;
+&lt;li&gt;Keep the timeline usable when zooming out and the background inspector aligned when switching modes.&lt;/li&gt;
+&lt;li&gt;Recover missing recording permissions with clearer contextual actions and keyboard recording controls.&lt;/li&gt;
+&lt;li&gt;Fix Delete handling across keyboard variants and preserve recording setup visibility while navigating the Library.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 dir="auto"&gt;Download&lt;/h2&gt;
+&lt;p dir="auto"&gt;Apple Silicon · macOS 15.0 or later · Version 0.2.0 (102).&lt;/p&gt;
+&lt;p dir="auto"&gt;The app and DMG are Developer ID signed, Apple notarized, and stapled. Recording, editing, and export stay on your Mac. A lifetime license covers up to three active Macs and includes future releases.&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;Tiếng Việt&lt;/summary&gt;
+&lt;h3 dir="auto"&gt;Tính năng mới&lt;/h3&gt;
+&lt;ul dir="auto"&gt;
+&lt;li&gt;Crop trực tiếp trong khung xem trước, hỗ trợ căn giữa để chọn khung hình chính xác.&lt;/li&gt;
+&lt;li&gt;Sáu mẫu nền gradient có thể chỉnh sửa; dùng lại ảnh nền đã nhập và giữ lựa chọn nền cho bản quay mới.&lt;/li&gt;
+&lt;li&gt;Kiểm tra cập nhật tại Settings → About và bật/tắt kiểm tra tự động. Mặc định bật cho người chưa có lựa chọn; giữ nguyên lựa chọn đã tắt trước đó.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 dir="auto"&gt;Cải tiến và sửa lỗi&lt;/h3&gt;
+&lt;ul dir="auto"&gt;
+&lt;li&gt;Thêm thanh trượt Clip Speed, đồng bộ điều khiển tốc độ và bảo vệ thao tác chỉnh sửa ở tốc độ cao.&lt;/li&gt;
+&lt;li&gt;Đưa Undo/Redo xuống thanh công cụ timeline.&lt;/li&gt;
+&lt;li&gt;Giới hạn thu nhỏ timeline để dễ thao tác; giữ bố cục phần nền ổn định khi đổi chế độ.&lt;/li&gt;
+&lt;li&gt;Hướng dẫn khôi phục quyền quay rõ ràng theo ngữ cảnh và bổ sung điều khiển ghi phím bấm.&lt;/li&gt;
+&lt;li&gt;Sửa xử lý phím Delete trên các biến thể bàn phím; giữ phần thiết lập quay khi điều hướng Library.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 dir="auto"&gt;Tải xuống&lt;/h3&gt;
+&lt;p dir="auto"&gt;Apple Silicon · macOS 15.0 trở lên · Phiên bản 0.2.0 (102).&lt;/p&gt;
+&lt;p dir="auto"&gt;App và DMG đều được ký Developer ID, Apple notarize và đính kèm ticket. Quay, chỉnh sửa và xuất video diễn ra trên Mac. License trọn đời dùng cho tối đa ba Mac đang hoạt động và bao gồm các bản phát hành tiếp theo.&lt;/p&gt;
+&lt;/details&gt;</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v0.2.0/ScreenTale-0.2.0.dmg" length="20326765" type="application/octet-stream" sparkle:edSignature="59Qjcz7PcuDnT9sRPb/ohnAG7ZUm+jBVJHksUrfEOC62IX8t9gDHU7uOrlIAnT2B82iX5Q7aYzawXR8APjoTCw=="></enclosure>
+    </item>
+    <item>
       <title>0.1.0</title>
       <pubDate>Tue, 08 Sep 2026 03:23:53 GMT</pubDate>
       <sparkle:version>92</sparkle:version>
@@ -18,6 +64,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: XwwXqiRHnTLB9YHFDCXo8TV0eaSGJZna9O0GY/K9E1ijGgocH1kEc4Nqdk136LpdK81byCDc8vpoywTMFgnFAA==
-length: 1701
+edSignature: 5HPkG3kQL8qLQuwJnZGOx/Mvd+K0auTnJ1HqalnCsqSeVifCVkkRaLuxenMkNOKVfV4B9OJCKmYgijgq3U7jCw==
+length: 5789
 -->
