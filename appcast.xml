@@ -6,8 +6,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/thienanblog/screentale-releases</link>
     <description>Updates for ScreenTale</description>
     <language>en</language>
+    <item>
+      <title>0.1.0</title>
+      <pubDate>Tue, 08 Sep 2026 03:23:53 GMT</pubDate>
+      <sparkle:version>92</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v0.1.0</link>
+      <description>&lt;h2&gt;ScreenTale 0.1.0&lt;/h2&gt;&lt;p&gt;First Production release for Apple Silicon Macs running macOS 15.0 or later.&lt;/p&gt;&lt;p&gt;Record, edit, and export locally. Free mode includes watermarked visual exports. Activate a valid 14-day trial or lifetime license for clean exports and automatic updates.&lt;/p&gt;&lt;p&gt;Developer ID signed, Apple notarized, and stapled app and DMG.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v0.1.0/ScreenTale-0.1.0.dmg" length="20158317" type="application/octet-stream" sparkle:edSignature="Y7l/WrI/FHXNqUu+eVXV7/BHWINUvvxxPGYQmeNZnjQpPMMKZEwd9iC5lknkHoKsek0/t8ireWaNIiLcrPDCBw=="></enclosure>
+    </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 5AMJrtfCja3nYgU4Jawu9xtNfgFOrxvPJxpDsh8RTKDr9+0Xo8ptHSz5cSlE+RouSziT5RBnZwj0hCqd7noiBA==
-length: 590
+edSignature: XwwXqiRHnTLB9YHFDCXo8TV0eaSGJZna9O0GY/K9E1ijGgocH1kEc4Nqdk136LpdK81byCDc8vpoywTMFgnFAA==
+length: 1701
 -->
