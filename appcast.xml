@@ -7,6 +7,48 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>0.3.1</title>
+      <pubDate>Tue, 08 Sep 2026 16:45:15 GMT</pubDate>
+      <sparkle:version>104</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v0.3.1</link>
+      <description>&lt;h2 dir="auto"&gt;Cursor alignment&lt;/h2&gt;
+&lt;ul dir="auto"&gt;
+&lt;li&gt;Fix cursor, click, and scroll positions in new Retina window recordings. The pointer now stays aligned with the recorded interface when editing on another display or exporting at a different resolution.&lt;/li&gt;
+&lt;li&gt;Preserve alignment when a captured window moves between Retina and standard-density displays.&lt;/li&gt;
+&lt;li&gt;Previously recorded projects are preserved. This update does not automatically repair coordinates already stored by the affected recorder.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 dir="auto"&gt;Timeline improvements&lt;/h2&gt;
+&lt;ul dir="auto"&gt;
+&lt;li&gt;Keep the final recorded image visible at the end of the timeline and prevent audio rounding from creating a tiny extra Audio block.&lt;/li&gt;
+&lt;li&gt;Deleting a Video interval now cuts the same time from Camera and Audio and moves the remaining media together. Undo restores the edit.&lt;/li&gt;
+&lt;li&gt;Select all media with Command-A or drag a selection rectangle across timeline lanes. Zoom and Keystroke effects remain separate from media selection.&lt;/li&gt;
+&lt;li&gt;Improve keyboard focus so timeline shortcuts reach the selected media after clicking the timeline.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 dir="auto"&gt;Download&lt;/h2&gt;
+&lt;p dir="auto"&gt;Apple Silicon · macOS 15.0 or later · Version 0.3.1 (104).&lt;/p&gt;
+&lt;p dir="auto"&gt;The app and DMG are Developer ID signed, Apple notarized, and stapled. Recording, editing, and export stay on your Mac.&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;Tiếng Việt&lt;/summary&gt;
+&lt;h3 dir="auto"&gt;Con trỏ&lt;/h3&gt;
+&lt;ul dir="auto"&gt;
+&lt;li&gt;Sửa vị trí con trỏ, click và cuộn trong các bản quay cửa sổ mới trên màn hình Retina. Con trỏ giữ đúng vị trí khi chỉnh sửa trên màn hình khác hoặc xuất video ở độ phân giải khác.&lt;/li&gt;
+&lt;li&gt;Giữ tọa độ chính xác khi cửa sổ đang quay được chuyển giữa màn hình Retina và màn hình có mật độ điểm ảnh thông thường.&lt;/li&gt;
+&lt;li&gt;Các dự án đã quay được giữ nguyên. Bản cập nhật không tự sửa tọa độ sai đã lưu trong những bản quay cũ.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 dir="auto"&gt;Timeline&lt;/h3&gt;
+&lt;ul dir="auto"&gt;
+&lt;li&gt;Giữ hình cuối của bản quay khi tới cuối timeline; loại bỏ block Audio thừa rất ngắn do sai khác làm tròn thời lượng.&lt;/li&gt;
+&lt;li&gt;Xóa một khoảng Video sẽ cắt cùng khoảng thời gian đó khỏi Camera và Audio, rồi dồn các đoạn còn lại đồng bộ. Undo khôi phục thao tác.&lt;/li&gt;
+&lt;li&gt;Chọn toàn bộ media bằng Command-A hoặc kéo khung chọn qua các hàng timeline. Hiệu ứng Zoom và Keystroke được chọn riêng.&lt;/li&gt;
+&lt;li&gt;Cải thiện focus bàn phím để phím tắt tác động đúng vào media sau khi bấm timeline.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="auto"&gt;Apple Silicon · macOS 15.0 trở lên · Phiên bản 0.3.1 (104). App và DMG đã ký Developer ID, notarize và staple. Quay, chỉnh sửa và xuất video diễn ra trên máy Mac của bạn.&lt;/p&gt;
+&lt;/details&gt;</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v0.3.1/ScreenTale-0.3.1.dmg" length="20343148" type="application/octet-stream" sparkle:edSignature="fjtF8iqGDVZUTr7SSeKWrU8Tu1aHxQiIUJol/3g/0xNXKtFl3HSasqLZdKgB8HpgKbtA8jBT8C5KmLT90q3kCw=="></enclosure>
+    </item>
+    <item>
       <title>0.2.0</title>
       <pubDate>Tue, 08 Sep 2026 13:50:34 GMT</pubDate>
       <sparkle:version>102</sparkle:version>
@@ -64,6 +106,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 5HPkG3kQL8qLQuwJnZGOx/Mvd+K0auTnJ1HqalnCsqSeVifCVkkRaLuxenMkNOKVfV4B9OJCKmYgijgq3U7jCw==
-length: 5789
+edSignature: H89J/boh4VPOFkwYNGXCr0sb4IilYfmGefZnLnhdX2XlJaSiH6TlJon9x/NN2jbYfSMOvU1n5E1GzxtDeE0fAQ==
+length: 9762
 -->
