@@ -7,6 +7,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>0.6.0</title>
+      <pubDate>Wed, 09 Sep 2026 06:42:32 GMT</pubDate>
+      <sparkle:version>111</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v0.6.0</link>
+      <description>&lt;h1 dir="auto"&gt;ScreenTale 0.6.0&lt;/h1&gt;
+&lt;ul dir="auto"&gt;
+&lt;li&gt;Upgrade directly from Video Editor using the new purple button beside Export. The controls adapt to narrow Inspector widths.&lt;/li&gt;
+&lt;li&gt;Choose an optional 14-day watermark-free trial when opening an eligible installation for the first time, or continue using ScreenTale Free.&lt;/li&gt;
+&lt;li&gt;Trial and purchase actions open License settings so the activation field and next steps are ready when you return from checkout.&lt;/li&gt;
+&lt;li&gt;License settings now explain that vouchers and discount codes are applied during checkout, not in the license-key field.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="auto"&gt;Requires macOS 15 Sequoia or later on Apple Silicon. Existing recordings and license activations are preserved.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v0.6.0/ScreenTale-0.6.0.dmg" length="20720493" type="application/octet-stream" sparkle:edSignature="ajQr01EKo9L4uoP2h++fRyO4Lg5v9Xd/cEEfOhk1tZ9jly7oDZatZQeiJOeza/7muKrSpM2Bc4l3N1zbYSqhDA=="></enclosure>
+    </item>
+    <item>
       <title>0.5.3</title>
       <pubDate>Wed, 09 Sep 2026 04:33:29 GMT</pubDate>
       <sparkle:version>110</sparkle:version>
@@ -135,6 +152,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 9i2WUXlxpLDoioMgb4U4qTVDizOpohg2o35sPVUxAWGl/87BRKfu5KgDvS7Gc+83NE1XsjA7kMeEjPvsAp+eBw==
-length: 12564
+edSignature: ZZW+FLH8c897yHpsj3tzrwWSIfTlneFkCrjHT8ok/dFkIYfJYJNXeu2K/CXyXiVSYH98N61fYTpaCNTUg73YDA==
+length: 14096
 -->
