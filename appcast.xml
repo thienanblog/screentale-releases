@@ -7,6 +7,35 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>0.5.3</title>
+      <pubDate>Wed, 09 Sep 2026 04:33:29 GMT</pubDate>
+      <sparkle:version>110</sparkle:version>
+      <sparkle:shortVersionString>0.5.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v0.5.3</link>
+      <description>&lt;h2 dir="auto"&gt;Attention Annotations&lt;/h2&gt;
+&lt;ul dir="auto"&gt;
+&lt;li&gt;Add timed Arrows, Text, Highlights, and Spotlights without changing the original recording. Combine components around one shared target.&lt;/li&gt;
+&lt;li&gt;Choose visual shape and text presets, including light and dark Callout boxes with a pointed tail. Arrows animate from their tail toward the target.&lt;/li&gt;
+&lt;li&gt;Attach annotations to Video so they follow clip edits, crop, and Zoom, or to Canvas for fixed output placement.&lt;/li&gt;
+&lt;li&gt;Place targets, text, and arrow tails directly in Preview with hand cursors and hover feedback. Dragging updates Preview efficiently and creates one Undo step on release.&lt;/li&gt;
+&lt;li&gt;Add Quick Annotations at the live cursor during recording, using the recording bar, menu, or Option-Command-A. Cues remain recoverable after an interrupted recording.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 dir="auto"&gt;Improvements and fixes&lt;/h2&gt;
+&lt;ul dir="auto"&gt;
+&lt;li&gt;Customize playback, timeline, inspector, and recording shortcuts in Settings, with conflict warnings and reset controls.&lt;/li&gt;
+&lt;li&gt;Keep selected annotation guides hidden outside the scene's time range and during playback.&lt;/li&gt;
+&lt;li&gt;Restore cursor and keystroke preview correctly when reopening projects whose Quick Annotation cues have already been processed.&lt;/li&gt;
+&lt;li&gt;Preserve increasing update build numbers after squash merges.&lt;/li&gt;
+&lt;li&gt;Improve recording actions from the Editor, editor layout, and camera startup.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 dir="auto"&gt;Compatibility&lt;/h2&gt;
+&lt;p dir="auto"&gt;Apple Silicon · macOS 15.0 or later · Version 0.5.3 (110).&lt;/p&gt;
+&lt;p dir="auto"&gt;Projects saved by this version use schema 10 and require this version or a compatible newer version to reopen. Keep a copy before saving if you need to return to an older app.&lt;/p&gt;
+&lt;p dir="auto"&gt;Recording, editing, and export stay on your Mac. The app and DMG are Developer ID signed, Apple notarized, and stapled.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v0.5.3/ScreenTale-0.5.3.dmg" length="20686700" type="application/octet-stream" sparkle:edSignature="A54f5cB2D4xxEpVxHkGOXLSdkR6Z9AniwbIymmiaQj4ybXvA1gbabMowJkBqNPJY3NgsgpXZpRaLwUIvMa1YBw=="></enclosure>
+    </item>
+    <item>
       <title>0.3.1</title>
       <pubDate>Tue, 08 Sep 2026 16:45:15 GMT</pubDate>
       <sparkle:version>104</sparkle:version>
@@ -106,6 +135,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: H89J/boh4VPOFkwYNGXCr0sb4IilYfmGefZnLnhdX2XlJaSiH6TlJon9x/NN2jbYfSMOvU1n5E1GzxtDeE0fAQ==
-length: 9762
+edSignature: 9i2WUXlxpLDoioMgb4U4qTVDizOpohg2o35sPVUxAWGl/87BRKfu5KgDvS7Gc+83NE1XsjA7kMeEjPvsAp+eBw==
+length: 12564
 -->
