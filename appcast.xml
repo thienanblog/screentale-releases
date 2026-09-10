@@ -7,6 +7,25 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>0.9.2</title>
+      <pubDate>Thu, 10 Sep 2026 10:25:25 GMT</pubDate>
+      <sparkle:version>119</sparkle:version>
+      <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v0.9.2</link>
+      <description>&lt;p dir="auto"&gt;ScreenTale 0.9.2 expands timeline editing and media composition.&lt;/p&gt;
+&lt;ul dir="auto"&gt;
+&lt;li&gt;Import local videos, audio, and other ScreenTale recordings. Add video overlays, replace footage, or bring in a recording's saved edit as a rendered clip.&lt;/li&gt;
+&lt;li&gt;New timelines keep sound attached to its video. Use &lt;strong&gt;Extract Audio&lt;/strong&gt; to edit sound independently, with separate controls for system audio and microphone.&lt;/li&gt;
+&lt;li&gt;Select Video, Zoom, and Annotation blocks together with Command-click or a selection rectangle. Delete the selection in one step, or use Command-C and Command-V to paste it at the playhead in the same project—including an opening excerpt or trailer.&lt;/li&gt;
+&lt;li&gt;Splitting Video keeps continuous Zoom and Annotation blocks intact. Pasted effects can be edited independently, and conflicting Camera placements are rejected without cutting existing clips.&lt;/li&gt;
+&lt;li&gt;The timeline starts at a consistent 360-point height. &lt;strong&gt;Upgrade Timeline&lt;/strong&gt; creates a copy of an older timeline with the new audio and layer behavior for review.&lt;/li&gt;
+&lt;li&gt;Keyboard overlays and shortcut menus use the correct macOS key symbols. Zoom framing now matches preview and export for imported footage with a different aspect ratio, and pasting retained imported media after reopening a project restores its preview correctly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="auto"&gt;Projects saved by this version use a newer format that older releases cannot open. Keep a separate copy before saving if you need to return to an older app version.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v0.9.2/ScreenTale-0.9.2.dmg" length="21378412" type="application/octet-stream" sparkle:edSignature="lS12B0LsbeQeu4OzOMaeXuachGjLAwBJ1F18rvj+szJf4hOlhyiotNkjOqkAgShkzm9RsLm6vqvNfrWxxywiBw=="></enclosure>
+    </item>
+    <item>
       <title>0.6.0</title>
       <pubDate>Wed, 09 Sep 2026 06:42:32 GMT</pubDate>
       <sparkle:version>111</sparkle:version>
@@ -152,6 +171,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ZZW+FLH8c897yHpsj3tzrwWSIfTlneFkCrjHT8ok/dFkIYfJYJNXeu2K/CXyXiVSYH98N61fYTpaCNTUg73YDA==
-length: 14096
+edSignature: hg+wayCV10rk6iQQAB3IoVCzJ7bWDdrO173J2Z6A4iFrWHX1ebPdemEKtpzZfzhRH1Vg0dgxcW/OzqvChBBpDg==
+length: 16480
 -->
