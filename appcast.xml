@@ -7,6 +7,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>0.12.0</title>
+      <pubDate>Fri, 11 Sep 2026 12:42:52 GMT</pubDate>
+      <sparkle:version>129</sparkle:version>
+      <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v0.12.0</link>
+      <description>&lt;p dir="auto"&gt;ScreenTale 0.12.0 makes export progress clearer and completed clips easier to find and open.&lt;/p&gt;
+&lt;ul dir="auto"&gt;
+&lt;li&gt;Export progress now shows a large percentage with completed and total frame counts underneath. Progress stays below 100% until the output file is ready.&lt;/li&gt;
+&lt;li&gt;Open a completed export directly in its default app, or use Show in Finder to locate it. The completion panel shows the filename and folder, and retains these actions when reopened in the same project.&lt;/li&gt;
+&lt;li&gt;Export remembers the last folder selected separately for video and audio-only output.&lt;/li&gt;
+&lt;li&gt;Failed or cancelled exports preserve an existing file being replaced. ScreenTale checks that the completed file is present and readable before reporting success.&lt;/li&gt;
+&lt;li&gt;Concurrent exports to the same destination can no longer silently overwrite each other's results. If the destination changes after selection, ScreenTale reports the conflict and lets you choose another filename or confirm replacement again.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v0.12.0/ScreenTale-0.12.0.dmg" length="21566828" type="application/octet-stream" sparkle:edSignature="wP+9+sXU5eCF/CY0PjtaOp9ZoiUhdu0e/ZHKmVDh5uA21OXTH48ixJWyP63xZ7giktmj0KZgjNcB+Al0Vv6HCg=="></enclosure>
+    </item>
+    <item>
       <title>0.11.5</title>
       <pubDate>Fri, 11 Sep 2026 11:22:54 GMT</pubDate>
       <sparkle:version>127</sparkle:version>
@@ -222,6 +239,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 1RHohscAwOEPN1cJN+H0Qo/ejneHHmkgmE461utbrUd+11Z99DZ0e2yDGCEMYCLr89C6ZF16XHpe80lfHRQ1DQ==
-length: 21484
+edSignature: NT3pYQ4/U/5VE72oIqvS08fGMCOAiGExeqZNL7m8ViMMYA0AhD/oC27aGrk0K2oJpHrghDRa77+QJfNG9boBBg==
+length: 23303
 -->
