@@ -7,6 +7,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>0.11.4</title>
+      <pubDate>Fri, 11 Sep 2026 05:35:47 GMT</pubDate>
+      <sparkle:version>126</sparkle:version>
+      <sparkle:shortVersionString>0.11.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v0.11.4</link>
+      <description>&lt;p dir="auto"&gt;ScreenTale 0.11.4 improves annotation editing and timeline responsiveness.&lt;/p&gt;
+&lt;ul dir="auto"&gt;
+&lt;li&gt;Select and move Arrow, Highlight, and Spotlight annotations directly in the paused Preview. Resize Highlight and Spotlight regions with corner handles.&lt;/li&gt;
+&lt;li&gt;Annotation blocks stay continuous across forward cuts and playback-speed changes, with separate resize edges and a usable move target even for very short scenes.&lt;/li&gt;
+&lt;li&gt;Resizing keeps the opposite boundary fixed, and dragging or changing Length stops at the appropriate clip sequence after footage is reordered.&lt;/li&gt;
+&lt;li&gt;Annotation selection responds immediately, and switching selections no longer redraws an unchanged paused Preview.&lt;/li&gt;
+&lt;li&gt;Timeline selection outlines individual blocks while keeping the active layer header easy to identify.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v0.11.4/ScreenTale-0.11.4.dmg" length="21541740" type="application/octet-stream" sparkle:edSignature="jEG4Z1FTGlPqsObd0NwslbeXiZZ5HEp/cTKrOsx/6fpdW5tMxkIlhfNRxPNHa0ht3k3WXDDbVLDZfwSsm7yLCQ=="></enclosure>
+    </item>
+    <item>
       <title>0.10.1</title>
       <pubDate>Fri, 11 Sep 2026 02:18:44 GMT</pubDate>
       <sparkle:version>121</sparkle:version>
@@ -188,6 +205,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: TYNIVOiY9VuusUYsjawgfdROyjIOAUS09LLMnbh6MTLP9TmFkSbubKTSUEMwSHzvRarwFH4Rnho5go+o0cVuCQ==
-length: 18129
+edSignature: h3BM9zYwUO2EdU66ThilC/lwxPYkFWsWLQCDJNEP/NQKe049xhISGOCBTfpWL1ljqlmIfRwOcwaGXCKb9QecBg==
+length: 19760
 -->
