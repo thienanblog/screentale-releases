@@ -7,6 +7,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>0.10.1</title>
+      <pubDate>Fri, 11 Sep 2026 02:18:44 GMT</pubDate>
+      <sparkle:version>121</sparkle:version>
+      <sparkle:shortVersionString>0.10.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v0.10.1</link>
+      <description>&lt;p dir="auto"&gt;ScreenTale 0.10.1 makes video timelines easier to scan and navigate.&lt;/p&gt;
+&lt;ul dir="auto"&gt;
+&lt;li&gt;Main Video, Camera, and imported Video Overlay clips now show continuous filmstrips of representative source frames directly in the timeline.&lt;/li&gt;
+&lt;li&gt;Filmstrips follow each clip's trim, split, paste, reorder, source replacement, and playback speed, so the visible frames stay aligned with the footage being edited.&lt;/li&gt;
+&lt;li&gt;Video rows provide more room for the new frames while keeping labels, selection borders, and attached audio waveforms legible.&lt;/li&gt;
+&lt;li&gt;Thumbnail generation stays out of the playback and export paths, pauses during active editing and playback, and limits work to visible timeline content.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="auto"&gt;Existing projects open without migration, and filmstrips do not modify source media or project files.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v0.10.1/ScreenTale-0.10.1.dmg" length="21467500" type="application/octet-stream" sparkle:edSignature="d4pJ9mwu3VKti3q1XaC1eGA/vqnhRjMAuHbwLxNMCx6ftltnpQoqZFTfRdYyBS1rIBILs7n6nY1BCFBOeLNEBw=="></enclosure>
+    </item>
+    <item>
       <title>0.9.2</title>
       <pubDate>Thu, 10 Sep 2026 10:25:25 GMT</pubDate>
       <sparkle:version>119</sparkle:version>
@@ -171,6 +188,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: hg+wayCV10rk6iQQAB3IoVCzJ7bWDdrO173J2Z6A4iFrWHX1ebPdemEKtpzZfzhRH1Vg0dgxcW/OzqvChBBpDg==
-length: 16480
+edSignature: TYNIVOiY9VuusUYsjawgfdROyjIOAUS09LLMnbh6MTLP9TmFkSbubKTSUEMwSHzvRarwFH4Rnho5go+o0cVuCQ==
+length: 18129
 -->
