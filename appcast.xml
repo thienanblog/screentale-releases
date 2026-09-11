@@ -7,6 +7,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>0.11.5</title>
+      <pubDate>Fri, 11 Sep 2026 11:22:54 GMT</pubDate>
+      <sparkle:version>127</sparkle:version>
+      <sparkle:shortVersionString>0.11.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v0.11.5</link>
+      <description>&lt;p dir="auto"&gt;ScreenTale 0.11.5 fixes timeline effects across edited clips and improves moving recordings to Trash.&lt;/p&gt;
+&lt;ul dir="auto"&gt;
+&lt;li&gt;Moving a recording to Trash no longer waits for unfinished background event analysis. If saving or moving fails, the recording stays open and event loading resumes.&lt;/li&gt;
+&lt;li&gt;Zoom, Keyboard, and Camera visibility blocks stay continuous across adjacent forward cuts and playback-speed changes in the same source sequence.&lt;/li&gt;
+&lt;li&gt;Moving and resizing Zoom and Camera visibility blocks follows the edited timeline across cuts and speed changes. Resizing keeps the opposite boundary fixed.&lt;/li&gt;
+&lt;li&gt;Copying and pasting Zoom and video annotations preserves continuous blocks across forward cuts, with transition timing mapped through the source and destination playback speeds.&lt;/li&gt;
+&lt;li&gt;Marquee selection and Magnet use the same continuous effect boundaries shown in the timeline.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v0.11.5/ScreenTale-0.11.5.dmg" length="21528941" type="application/octet-stream" sparkle:edSignature="RTnvu6lPE7TJzdEwUn4nlqpgb+un6g9xZtXuueH+fXwfQjEehahv6dRbUSZWxEF5XAwo1ttEuW/MDxk6t8hsBw=="></enclosure>
+    </item>
+    <item>
       <title>0.11.4</title>
       <pubDate>Fri, 11 Sep 2026 05:35:47 GMT</pubDate>
       <sparkle:version>126</sparkle:version>
@@ -205,6 +222,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: h3BM9zYwUO2EdU66ThilC/lwxPYkFWsWLQCDJNEP/NQKe049xhISGOCBTfpWL1ljqlmIfRwOcwaGXCKb9QecBg==
-length: 19760
+edSignature: 1RHohscAwOEPN1cJN+H0Qo/ejneHHmkgmE461utbrUd+11Z99DZ0e2yDGCEMYCLr89C6ZF16XHpe80lfHRQ1DQ==
+length: 21484
 -->
