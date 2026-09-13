@@ -7,6 +7,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>0.16.0</title>
+      <pubDate>Sun, 13 Sep 2026 07:35:20 GMT</pubDate>
+      <sparkle:version>136</sparkle:version>
+      <sparkle:shortVersionString>0.16.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v0.16.0</link>
+      <description>&lt;p dir="auto"&gt;ScreenTale 0.16.0 introduces account-based licensing, a 30-day Launch Pass, and easier management of lifetime-license Macs.&lt;/p&gt;
+&lt;ul dir="auto"&gt;
+&lt;li&gt;Sign in from License settings with Google or an email magic link. Eligible accounts automatically receive one 30-day Launch Pass, with no payment method required.&lt;/li&gt;
+&lt;li&gt;Lifetime purchases made through ScreenTale Web are linked to the signed-in account and synchronized back to the app automatically. Manual license-key entry remains available for recovery.&lt;/li&gt;
+&lt;li&gt;Each lifetime purchase supports up to 3 active Macs. If every seat is occupied, ScreenTale now shows the linked Macs and lets you replace one before activating the current Mac.&lt;/li&gt;
+&lt;li&gt;Customers with multiple lifetime purchases can use each purchase's separate 3-Mac pool; ScreenTale reuses an existing activation or chooses an available linked license automatically.&lt;/li&gt;
+&lt;li&gt;A validated lifetime license continues working offline for 14 days, followed by a 7-day emergency grace period. Connect at least once within 21 days to keep clean export and automatic updates available.&lt;/li&gt;
+&lt;li&gt;Licensing interruptions never remove or rewrite projects. Recording, editing, preview, and full-quality watermarked export remain available while account or license access is recovered.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v0.16.0/ScreenTale-0.16.0.dmg" length="21774189" type="application/octet-stream" sparkle:edSignature="ONJf8Fk7uL3y7mhfRoSgwlub1aS2C+c8TEhrQ4JnroneswJ16NF3R1Cpvx9U0DNnlVHBSgcokhN3Me1K9xsFDg=="></enclosure>
+    </item>
+    <item>
       <title>0.12.0</title>
       <pubDate>Fri, 11 Sep 2026 12:42:52 GMT</pubDate>
       <sparkle:version>129</sparkle:version>
@@ -239,6 +257,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: NT3pYQ4/U/5VE72oIqvS08fGMCOAiGExeqZNL7m8ViMMYA0AhD/oC27aGrk0K2oJpHrghDRa77+QJfNG9boBBg==
-length: 23303
+edSignature: LXh3DYID0Eob4PnZ33lRb1GkLigSoWGD652B6tymRmKGLzS1D8H9DiJZ9l0FQ/FWUj5lhC0Di917IMu6EbOwDw==
+length: 25430
 -->
