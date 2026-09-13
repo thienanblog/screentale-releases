@@ -7,6 +7,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>0.16.1</title>
+      <pubDate>Sun, 13 Sep 2026 16:00:40 GMT</pubDate>
+      <sparkle:version>137</sparkle:version>
+      <sparkle:shortVersionString>0.16.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v0.16.1</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fixed License settings rejecting correctly configured online licensing, restoring Buy Lifetime License and Start 30-Day Launch Pass.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v0.16.1/ScreenTale-0.16.1.dmg" length="21772653" type="application/octet-stream" sparkle:edSignature="qeRlEvtlU8YlPjs+KLaFmgiKNDCbZpuIour64sPRTaXEn3sWVJO7dvftk829SK3NUnWSglTp50NycekhVHYYDA=="></enclosure>
+    </item>
+    <item>
       <title>0.16.0</title>
       <pubDate>Sun, 13 Sep 2026 07:35:20 GMT</pubDate>
       <sparkle:version>136</sparkle:version>
@@ -257,6 +267,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: LXh3DYID0Eob4PnZ33lRb1GkLigSoWGD652B6tymRmKGLzS1D8H9DiJZ9l0FQ/FWUj5lhC0Di917IMu6EbOwDw==
-length: 25430
+edSignature: ONUgecIPCncZVxQNS7yyf6UbJ/EwQNWYaHSIRmeelmTPs2OjdTu8Vc3Ako5aGr0ySXYKUYy4FGIP02PM1H2nCQ==
+length: 26318
 -->
