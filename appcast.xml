@@ -7,6 +7,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>0.18.0</title>
+      <pubDate>Mon, 14 Sep 2026 12:41:22 GMT</pubDate>
+      <sparkle:version>141</sparkle:version>
+      <sparkle:shortVersionString>0.18.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v0.18.0</link>
+      <description>&lt;p&gt;ScreenTale 0.18.0 makes adding videos to the timeline simpler.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Use Add &amp;gt; Import Video for both main footage and video overlays. ScreenTale chooses the placement from the playhead: overlay existing footage, insert between Main Video clips, or append after the last clip.&lt;/li&gt;
+&lt;li&gt;Drag a recording from Library into the timeline to import it. A translucent preview shows its duration and destination, including a new overlay row or the space opened between clips.&lt;/li&gt;
+&lt;li&gt;Import ScreenTale recordings directly through the file picker, alongside regular movie files.&lt;/li&gt;
+&lt;li&gt;Importing at fractional clip boundaries now correctly inserts or appends after seeking, scrubbing, or changing clip speed.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v0.18.0/ScreenTale-0.18.0.dmg" length="21864812" type="application/octet-stream" sparkle:edSignature="TXBrEjp3f4jMmKHHxxj6RNse/nehKBcGem9fMi/ePzsY4KfG1DYERba8uftbO0z6mcWlisLyMMYayAKS5A29Bw=="></enclosure>
+    </item>
+    <item>
       <title>0.17.0</title>
       <pubDate>Mon, 14 Sep 2026 07:49:42 GMT</pubDate>
       <sparkle:version>139</sparkle:version>
@@ -277,6 +294,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: YsD3jKc2Ns+/M2RN05MX3lYvGx6YM3pOwpMkY+xJYKZY+ish3aznlJC36YqwWdz2WdfZgqz8684h7MzXr25rAA==
-length: 28026
+edSignature: 77WZmWR1Kih+tJqv77pKu2m/7OFp1nFUug6xt01j4WG5HnbAKHpp19E+mE8W5N5btTcfl7sIYb5HPy415MyuAQ==
+length: 29543
 -->
