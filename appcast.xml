@@ -7,6 +7,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>0.17.0</title>
+      <pubDate>Mon, 14 Sep 2026 07:49:42 GMT</pubDate>
+      <sparkle:version>139</sparkle:version>
+      <sparkle:shortVersionString>0.17.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v0.17.0</link>
+      <description>&lt;p&gt;ScreenTale 0.17.0 adds independent recording copies and improves Library editing on Mac.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Choose Duplicate in the Editor header or a recording&amp;#x27;s Library context menu to create a separate copy with its media and edits. The copy opens in a new Editor, while the original keeps its edits and Undo history.&lt;/li&gt;&lt;li&gt;Moving a recording to Trash keeps the Editor open and selects the next available recording below it in Library, falling back to the previous one. When none remains in the displayed list, Library stays open in an empty Editor.&lt;/li&gt;&lt;li&gt;Delete and Fn-Delete on a selected recording in Library open the same Trash confirmation. Text fields keep normal text deletion, and recordings hidden by search or collapsed Recents cannot receive Library Delete.&lt;/li&gt;&lt;li&gt;Area capture highlights only the selected rectangle, without also highlighting the entire display or dimming other displays.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v0.17.0/ScreenTale-0.17.0.dmg" length="21793132" type="application/octet-stream" sparkle:edSignature="zH3liBC4CwiBqjJCN8fRC1XvE/FN4yKqgFqZS2zbwQBZsezVBdS/e0USWncyKC8oeP2M7zamWnRYeH6IUEQ3DQ=="></enclosure>
+    </item>
+    <item>
       <title>0.16.1</title>
       <pubDate>Sun, 13 Sep 2026 16:00:40 GMT</pubDate>
       <sparkle:version>137</sparkle:version>
@@ -267,6 +277,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ONUgecIPCncZVxQNS7yyf6UbJ/EwQNWYaHSIRmeelmTPs2OjdTu8Vc3Ako5aGr0ySXYKUYy4FGIP02PM1H2nCQ==
-length: 26318
+edSignature: YsD3jKc2Ns+/M2RN05MX3lYvGx6YM3pOwpMkY+xJYKZY+ish3aznlJC36YqwWdz2WdfZgqz8684h7MzXr25rAA==
+length: 28026
 -->
