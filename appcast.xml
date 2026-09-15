@@ -7,6 +7,25 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>0.21.2</title>
+      <pubDate>Tue, 15 Sep 2026 06:30:16 GMT</pubDate>
+      <sparkle:version>154</sparkle:version>
+      <sparkle:shortVersionString>0.21.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v0.21.2</link>
+      <description>&lt;p&gt;ScreenTale 0.21.2 gives the timeline more room and adds practical audio-level guidance.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Library now sits beside Preview, with Timeline spanning the workspace below both panes. Inspector remains on the right.&lt;/li&gt;
+&lt;li&gt;The timeline toolbar follows your selection and offers Main Video tools when nothing is selected. Import, Add zoom, Add annotation and camera visibility stay easy to reach; narrow windows use compact icons and an editing popover. Magnet has a clearer on/off state and remembers your choice.&lt;/li&gt;
+&lt;li&gt;Split has a dropdown with aligned shortcut hints. Defaults are Command-B for Split, Command-Q for Split and Delete Left, and Command-E for Split and Delete Right. Export moves to Shift-Command-E and Quit to Option-Command-Q. Existing custom bindings that conflict with fixed app commands stay saved but inactive; Settings explains how to reassign or reset them.&lt;/li&gt;
+&lt;li&gt;Microphone and System Audio share one waveform strip with consistent dBFS guides. Turn on Distinguish audio sources in Audio Inspector to overlay the sources in different colors without adding rows for silence.&lt;/li&gt;
+&lt;li&gt;Output Loudness measures the full edit and suggests a reversible All Audio adjustment toward -16 LUFS, respecting peak and gain limits. Visual edits such as Crop no longer restart audio analysis.&lt;/li&gt;
+&lt;li&gt;Continue Recording prepares the original source for another take in the same project. Record Audio captures a microphone take at the playhead with synchronized Preview and Pause/Resume controls. Both entry points are in the timeline&amp;#x27;s Record menu.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v0.21.2/ScreenTale-0.21.2.dmg" length="22067052" type="application/octet-stream" sparkle:edSignature="uI/apisD6TbV21Wz+RrVhYg9ITYwcmfgkgVnDMkL7pRMm1OOaKj125r5fnc+ix2LFnZNOdOyDCvAzm8lroSQBA=="></enclosure>
+    </item>
+    <item>
       <title>0.18.0</title>
       <pubDate>Mon, 14 Sep 2026 12:41:22 GMT</pubDate>
       <sparkle:version>141</sparkle:version>
@@ -294,6 +313,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 77WZmWR1Kih+tJqv77pKu2m/7OFp1nFUug6xt01j4WG5HnbAKHpp19E+mE8W5N5btTcfl7sIYb5HPy415MyuAQ==
-length: 29543
+edSignature: vMwSlUKX6hrIhi+GF2Gyv29Y7IT+hteyOmPuPXTUwdyL7+8kIWUFrVejjHN7rUodwt2C/Oro2lrq8zcRGQ2cAA==
+length: 31950
 -->
