@@ -7,6 +7,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>0.25.0</title>
+      <pubDate>Sat, 26 Sep 2026 12:02:01 GMT</pubDate>
+      <sparkle:version>163</sparkle:version>
+      <sparkle:shortVersionString>0.25.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v0.25.0</link>
+      <description>&lt;p&gt;ScreenTale 0.25.0 adds more control over what viewers see and how quickly your story moves.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Set camera layouts for selected moments: return to the picture-in-picture bubble, put camera and screen side by side, or let the camera fill the canvas. Adjust framing for each interval without changing the original footage.&lt;/li&gt;
+&lt;li&gt;Cover a selected area for a chosen time with an opaque Solid Cover or a Blur. Solid Cover is the safer choice for sensitive details; review the full export because regions do not track moving content, and project files still contain the original media.&lt;/li&gt;
+&lt;li&gt;Review suggested long pauses in Audio, hear each original and shortened version, then apply selected cuts across the whole timeline in one undoable step. Source recordings remain intact.&lt;/li&gt;
+&lt;li&gt;Generate subtitles from edited audio using an on-device Whisper model or an external HTTPS provider that you configure. External recognition sends only the selected edited audio after confirmation. Review and edit the draft before using it, then burn captions into video or save an SRT file.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Projects saved with this version can contain privacy regions and subtitles that older versions cannot read. Keep a copy before opening an existing project if you may need to return to an older ScreenTale version.&lt;/p&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v0.25.0/ScreenTale-0.25.0.dmg" length="23714690" type="application/octet-stream" sparkle:edSignature="0qHVnSmgFgmqRYXazhdvrFt3+FH0lzxuPTIkGQkbmMCrVOMv5jBK5/8YqRPs8JtmCqTe0GFdOIa56CQ0gFFvBA=="></enclosure>
+    </item>
+    <item>
       <title>0.21.2</title>
       <pubDate>Tue, 15 Sep 2026 06:30:16 GMT</pubDate>
       <sparkle:version>154</sparkle:version>
@@ -313,6 +331,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: vMwSlUKX6hrIhi+GF2Gyv29Y7IT+hteyOmPuPXTUwdyL7+8kIWUFrVejjHN7rUodwt2C/Oro2lrq8zcRGQ2cAA==
-length: 31950
+edSignature: 6NiltRDU+DpAMsWFdAokf4lqk5M1QQdGmIvOgChWKoVUXOBkD7uf5nC6y7fPRJovGeT5vJV8qMypshZ8dsGpBw==
+length: 34071
 -->
