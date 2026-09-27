@@ -7,6 +7,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>0.26.0</title>
+      <pubDate>Sun, 27 Sep 2026 05:38:03 GMT</pubDate>
+      <sparkle:version>166</sparkle:version>
+      <sparkle:shortVersionString>0.26.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v0.26.0</link>
+      <description>&lt;p&gt;ScreenTale 0.26.0 makes audio from new clips easier to review when a microphone and system sound are recorded together.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;New ScreenTale recordings with both Microphone and System Audio start with System Audio muted in the clip. Both original audio files remain available, so you can turn System Audio back on in the Audio inspector. Recordings with only System Audio still play it immediately.&lt;/li&gt;
+&lt;li&gt;Raw ScreenTale recordings newly added to a timeline use the same audio default. Existing projects and imported movies keep their saved sound settings.&lt;/li&gt;
+&lt;li&gt;Enabling System Audio while Microphone is on now asks you to confirm, since the same sound can be heard twice or echo. You can skip further warnings until you quit the app. If your microphone picks up your speakers, try headphones when recording.&lt;/li&gt;
+&lt;li&gt;The Library sidebar now shows the ScreenTale icon and name in its header.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v0.26.0/ScreenTale-0.26.0.dmg" length="23741314" type="application/octet-stream" sparkle:edSignature="SofSiUfak3EXN8bxK3GNrZAtbJtyOBJbSetLp0+SEzWoBcLunQ2JHmnMLa5Mfturt94qtuo4/McCk/tBArl1BQ=="></enclosure>
+    </item>
+    <item>
       <title>0.25.0</title>
       <pubDate>Sat, 26 Sep 2026 12:02:01 GMT</pubDate>
       <sparkle:version>163</sparkle:version>
@@ -331,6 +348,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 6NiltRDU+DpAMsWFdAokf4lqk5M1QQdGmIvOgChWKoVUXOBkD7uf5nC6y7fPRJovGeT5vJV8qMypshZ8dsGpBw==
-length: 34071
+edSignature: xWrTrfwgu20/rIA57v7arDGmdvPzvHqmBOTNKC4qX8ocJyrwQYSGiUDA7Yh7VVmcR475DJI6ydffgZ7D7vOwAw==
+length: 35776
 -->
