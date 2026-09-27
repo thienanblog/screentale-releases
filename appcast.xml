@@ -7,6 +7,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>0.26.3</title>
+      <pubDate>Sun, 27 Sep 2026 16:03:27 GMT</pubDate>
+      <sparkle:version>171</sparkle:version>
+      <sparkle:shortVersionString>0.26.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v0.26.3</link>
+      <description>&lt;p&gt;ScreenTale 0.26.3 improves timeline responsiveness when editing recordings into smaller clips.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Splitting, trimming or deleting clips reuses thumbnails for unchanged footage, reducing background decoding while you edit.&lt;/li&gt;
+&lt;li&gt;Playback avoids refreshing every timeline row on each playhead movement, and thumbnail generation reuses its decoders when multiple video sources are visible.&lt;/li&gt;
+&lt;li&gt;With nothing selected, the Split, Split and Delete Left, and Split and Delete Right commands now cut eligible Camera footage together with Main Video. Explicit clip selections keep their existing behavior.&lt;/li&gt;
+&lt;li&gt;Camera visibility and layout changes appear on a separate row below the Camera thumbnails, making both easier to see and adjust.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v0.26.3/ScreenTale-0.26.3.dmg" length="23735170" type="application/octet-stream" sparkle:edSignature="F5ZVUcbwFP+X7u5ACyqHADhAOIoVtflM1p0s+5ZFOgxxhiToMvVJ2mRsnqf5l65tbEhz7YLXXQujztiOev/PAg=="></enclosure>
+    </item>
+    <item>
       <title>0.26.0</title>
       <pubDate>Sun, 27 Sep 2026 05:38:03 GMT</pubDate>
       <sparkle:version>166</sparkle:version>
@@ -348,6 +365,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: xWrTrfwgu20/rIA57v7arDGmdvPzvHqmBOTNKC4qX8ocJyrwQYSGiUDA7Yh7VVmcR475DJI6ydffgZ7D7vOwAw==
-length: 35776
+edSignature: 4cgqNDgB8MA92cTvDUjnnNJSJCC9WkP7zr0sPRGiLIzkH6BsT5/ZOD3yhBxn3sjFSaVhEvBr96OrKjW0rfGRCw==
+length: 37329
 -->
