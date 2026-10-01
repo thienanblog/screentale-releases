@@ -7,6 +7,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>0.27.0</title>
+      <pubDate>Thu, 01 Oct 2026 08:00:16 GMT</pubDate>
+      <sparkle:version>172</sparkle:version>
+      <sparkle:shortVersionString>0.27.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v0.27.0</link>
+      <description>&lt;p&gt;ScreenTale 0.27.0 adds complete cursor styles for your recordings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Choose macOS-style black or Windows-style white pointers from the first two entries in the Cursor inspector.&lt;/li&gt;
+&lt;li&gt;All eight cursor styles now include matching text, hand, resize and drag cursors, so the selected look follows recorded pointer activity in Preview and Export.&lt;/li&gt;
+&lt;li&gt;Each style card previews its text, hand and resize shapes alongside the main pointer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Projects and appearance presets using the new macOS or Windows cursor styles require ScreenTale 0.27.0 or later.&lt;/p&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v0.27.0/ScreenTale-0.27.0.dmg" length="23740801" type="application/octet-stream" sparkle:edSignature="3xyR5pSgkGiq79HHugG1qwew6Pnpq1XB/AMuIht5yudJBk1G8Ln9szPi/LbcLuYVTjzWDD8qjEbzeQJxfJaGDw=="></enclosure>
+    </item>
+    <item>
       <title>0.26.3</title>
       <pubDate>Sun, 27 Sep 2026 16:03:27 GMT</pubDate>
       <sparkle:version>171</sparkle:version>
@@ -365,6 +382,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 4cgqNDgB8MA92cTvDUjnnNJSJCC9WkP7zr0sPRGiLIzkH6BsT5/ZOD3yhBxn3sjFSaVhEvBr96OrKjW0rfGRCw==
-length: 37329
+edSignature: +oneDforUYsSDBtz6ducxNqY1tJx730bJdYLQFD2Q3DnScVs0O5bwnYIa4w7MIhKrHZgY+Ks1tmIDhfgsvhRCA==
+length: 38702
 -->
