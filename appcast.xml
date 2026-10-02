@@ -7,6 +7,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>0.28.3</title>
+      <pubDate>Fri, 02 Oct 2026 22:49:58 GMT</pubDate>
+      <sparkle:version>178</sparkle:version>
+      <sparkle:shortVersionString>0.28.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v0.28.3</link>
+      <description>&lt;p&gt;ScreenTale 0.28.3 makes Video and Camera thumbnails appear sooner in the timeline.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Video and Camera thumbnails load concurrently, so one track no longer has to wait for the other to finish. Visible tracks receive their first image before already-populated tracks finish loading.&lt;/li&gt;
+&lt;li&gt;Reopening an editor reuses thumbnails cached on your Mac, reducing repeated decoding while keeping the same image quality.&lt;/li&gt;
+&lt;li&gt;The local thumbnail cache has storage limits and regenerates images if cached files are damaged or source media changes.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v0.28.3/ScreenTale-0.28.3.dmg" length="23886209" type="application/octet-stream" sparkle:edSignature="rU8CNOHTvc8oDyrODIvcIVCb54LP3LUnxzI84whLnBVOjUw0Y/YeYWqVTFneqj2I295rhsvE2oZaVDmghCqcAw=="></enclosure>
+    </item>
+    <item>
       <title>0.28.2</title>
       <pubDate>Fri, 02 Oct 2026 20:08:23 GMT</pubDate>
       <sparkle:version>177</sparkle:version>
@@ -401,6 +417,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: tWLLRHnDUVVW7yt7qHVxC8ng6Q1+8NIGuHhuWBSf39P/UrikoIP0u2ZcMfznqz5qnOSI62NtQ/1836mDn33yCw==
-length: 40651
+edSignature: 875MRZ2g5ZQ+Fni5Dkvi1TBMfMT5kEkDbks+uH4BQGm8tqKLx2e63R4MmecWp61Uu4oWnG8xfBrfgM13/XOBDw==
+length: 41993
 -->
