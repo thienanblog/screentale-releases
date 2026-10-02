@@ -7,6 +7,25 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>0.28.2</title>
+      <pubDate>Fri, 02 Oct 2026 20:08:23 GMT</pubDate>
+      <sparkle:version>177</sparkle:version>
+      <sparkle:shortVersionString>0.28.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v0.28.2</link>
+      <description>&lt;p&gt;ScreenTale 0.28.2 makes navigating recordings faster and keeps the editor responsive while seeking.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dragging the playhead and jumping to distant positions can use temporary 480p previews prepared in the background. Once you stop, the Preview returns to the original recording&amp;#x27;s detail.&lt;/li&gt;
+&lt;li&gt;Nearby frame steps and revisiting recent positions reuse cached frames, reducing repeated decoding. Preview pacing adapts to rendering speed, Low Power Mode and thermal pressure.&lt;/li&gt;
+&lt;li&gt;The last scrub image stays visible while its replacement is prepared, avoiding a flash back to an older frame when you release the playhead.&lt;/li&gt;
+&lt;li&gt;Temporary preview files have storage limits and are cleaned up when recordings or editors close, when you quit, and after an interrupted session. Switching recordings also releases idle preview caches.&lt;/li&gt;
+&lt;li&gt;Removing the last recording from an open editor now clears its old preview and releases its background readers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The first seek may still take longer while previews are being prepared. Playback and exported videos retain the original recording quality.&lt;/p&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v0.28.2/ScreenTale-0.28.2.dmg" length="23849345" type="application/octet-stream" sparkle:edSignature="0/Co052VMLgLKZe6cqMBxLZbKbn8W+sl5SZXktDaEpa6m1LCjGXWm49T/Ml5ofWSdEsCAWR0fAzXELz/6c0bCg=="></enclosure>
+    </item>
+    <item>
       <title>0.27.0</title>
       <pubDate>Thu, 01 Oct 2026 08:00:16 GMT</pubDate>
       <sparkle:version>172</sparkle:version>
@@ -382,6 +401,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: +oneDforUYsSDBtz6ducxNqY1tJx730bJdYLQFD2Q3DnScVs0O5bwnYIa4w7MIhKrHZgY+Ks1tmIDhfgsvhRCA==
-length: 38702
+edSignature: tWLLRHnDUVVW7yt7qHVxC8ng6Q1+8NIGuHhuWBSf39P/UrikoIP0u2ZcMfznqz5qnOSI62NtQ/1836mDn33yCw==
+length: 40651
 -->
