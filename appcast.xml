@@ -7,6 +7,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>0.33.0</title>
+      <pubDate>Thu, 08 Oct 2026 19:17:37 GMT</pubDate>
+      <sparkle:version>190</sparkle:version>
+      <sparkle:shortVersionString>0.33.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v0.33.0</link>
+      <description>&lt;p&gt;ScreenTale 0.33.0 adds optional diagnostic reports and AI-assisted editing, and improves the handoff after recording.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;After a crash or a failed main operation, the next launch offers a diagnostic report for review. You choose whether to send it to ScreenTale Web, save it to a file, or keep it on your Mac. Settings → General → Diagnostics lets you return to skipped reports.&lt;/li&gt;
+&lt;li&gt;Diagnostic reports contain app and macOS versions, operation results, error codes, and normalized crash addresses when available. They exclude recordings, project contents, file paths, keystrokes, and credentials. Submitted reports are linked to your account and kept for 90 days.&lt;/li&gt;
+&lt;li&gt;AI Editor can propose edits using your configured provider. Review each draft before applying it; sharing rendered frames is optional and requires your consent.&lt;/li&gt;
+&lt;li&gt;Stopping a recording opens a usable Editor and avoids duplicate or orphaned windows. The recording bar no longer blocks the export destination dialog.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v0.33.0/ScreenTale-0.33.0.dmg" length="24269227" type="application/octet-stream" sparkle:edSignature="uZggKlpoLYH32Wej3uh2tV67X76jP9mIOPxdGpuy8aBjRvjMbRDdFajlvWKVt29vsTixJE0heY9J6Mf7dWGtCA=="></enclosure>
+    </item>
+    <item>
       <title>0.28.3</title>
       <pubDate>Fri, 02 Oct 2026 22:49:58 GMT</pubDate>
       <sparkle:version>178</sparkle:version>
@@ -417,6 +434,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 875MRZ2g5ZQ+Fni5Dkvi1TBMfMT5kEkDbks+uH4BQGm8tqKLx2e63R4MmecWp61Uu4oWnG8xfBrfgM13/XOBDw==
-length: 41993
+edSignature: EkYKiKzchVIX8FP7eHPkj5NseL9xA2qM+G8F/s50POhsC9f+klW3sMEN0HKU37lI9xw88W8iantj3ILRqJhlAA==
+length: 43806
 -->
