@@ -1,11 +1,11 @@
 {
-  "version": "1.0.3",
-  "notes": "ScreenTale 1.0.3 improves upgrading older recordings, Dock behavior and license renewal.\n\n- Upgrading an older recording now places the upgraded copy at the top of Recents with an \"(Upgraded)\" suffix, without asking where to save it. The original recording stays unchanged.\n- Older recordings that still need an upgrade show a yellow warning icon next to their name in the Library.\n- Opening ScreenTale no longer shows a second, bouncing ScreenTale icon in the Dock.\n- A license key activated on this Mac now renews correctly while you are signed in to your ScreenTale account, so clean exports and updates continue without interruption.\n",
-  "pub_date": "2026-10-27T13:36:45Z",
+  "version": "1.0.4",
+  "notes": "ScreenTale 1.0.4 makes quitting ScreenTale reliable.\n\n- Quitting ScreenTale from a script, an automation tool or another app now quits ScreenTale itself, instead of sometimes failing because the background recorder received the request.\n",
+  "pub_date": "2026-10-27T15:17:22Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/thienanblog/screentale-releases/releases/download/v1.0.3/ScreenTale-1.0.3.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEpGQ2xqS1dGaEx5UHYyQWIzUU9TREs4V0lBQXZueTcydTJXMTc5T2dHUTBYYWhqK3pqTXNuL25sNlVCUFd1aVVDT04rZGNhL20vUjJmK3FNQ2pDU1dMSmo1VWM1R2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTA4NzM4CWZpbGU6U2NyZWVuVGFsZS0xLjAuMy5hcHAudGFyLmd6CXZlcnNpb246MS4wLjMKam1BcjlCUjFONzUxQWJrWFRGR2Q2Z1ZIekJsYWdmdzhjK2E3cFhzU1pmRFMyVzRpbTgyWldYR3F2TmQ3SFc3VGFsOFdkc1JXL21uMjRUT1lZK0duRFE9PQo="
+      "url": "https://github.com/thienanblog/screentale-releases/releases/download/v1.0.4/ScreenTale-1.0.4.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEpGQ2xqS1dGaERVVTF6YnRJcnA0SkZRQkNqcEZ3dDMreXpmQys4QW0xU2dBMFd2T2tueHJBeHBwZzlQRTdvQ204RXd5UWViOTFoYWFObFRuQnNRbjBjcGowR1g1YVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTE0NDg2CWZpbGU6U2NyZWVuVGFsZS0xLjAuNC5hcHAudGFyLmd6CXZlcnNpb246MS4wLjQKZTVMVnRxd3d0OEcxTFpJc3VBV0pvSFM5b2pLdTVoQlUySzBWakRtdlZQaXdXNURDMnZDTy9ISHladndaWGFYSWxpbHlnSkZoSHVrNzNoUGNlUDVCRGc9PQo="
     }
   }
 }
