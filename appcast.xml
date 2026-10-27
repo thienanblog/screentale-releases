@@ -7,6 +7,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>1.0.0</title>
+      <pubDate>Tue, 27 Oct 2026 12:17:47 GMT</pubDate>
+      <sparkle:version>201</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v1.0.0</link>
+      <description>&lt;p&gt;ScreenTale 1.0 introduces the Rust desktop app for Mac recording, editing and export.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Open an existing Swift recording in the Rust editor to create an upgraded copy. The original recording stays intact. New and upgraded projects use the new project format and require ScreenTale 1.0 or later for editing.&lt;/li&gt;&lt;li&gt;Review complete release notes, download progress and update controls in the new Software Updates window. Choose Skip This Version, Remind Me Later, or Install &amp;amp; Relaunch.&lt;/li&gt;&lt;li&gt;Existing Swift installations receive this transition through their current Sparkle update channel. After installing ScreenTale 1.0, future updates use the new updater.&lt;/li&gt;&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v1.0.0/ScreenTale-1.0.0.dmg" length="31119191" type="application/octet-stream" sparkle:edSignature="k3o36c2lNyKTFlfBdET9UVtvOtLQ6bLWf+fzEyomXIvMJahkh9qZUpTSWJUFbbUOJqQYcB3u5t5SkKsRuT3uCA=="></enclosure>
+    </item>
+    <item>
       <title>0.33.0</title>
       <pubDate>Thu, 08 Oct 2026 19:17:37 GMT</pubDate>
       <sparkle:version>190</sparkle:version>
@@ -434,6 +446,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: EkYKiKzchVIX8FP7eHPkj5NseL9xA2qM+G8F/s50POhsC9f+klW3sMEN0HKU37lI9xw88W8iantj3ILRqJhlAA==
-length: 43806
+edSignature: RJWrO2YkK6Rvg9TRiV1JBqV5Aq0sootjNO22WT+b2bVrg516ymd0oKGXgD4QOg/4Rp1c6is+2dOhnLmWmTHVAA==
+length: 45268
 -->
