@@ -7,6 +7,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>1.1.1</title>
+      <pubDate>Wed, 28 Oct 2026 05:29:58 GMT</pubDate>
+      <sparkle:version>226</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v1.1.1</link>
+      <description>&lt;p&gt;ScreenTale 1.1.1 adds sharper zoomed recordings, fixes exports with audio and makes editing feel immediate.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;New experimental HiDPI capture option in Settings &amp;gt; Recording and the floating bar&amp;#x27;s Options menu. On a standard-resolution display, macOS draws the recorded display at 2x so zoomed-in footage keeps more detail. It is off by default and asks for confirmation before turning on.&lt;/li&gt;&lt;li&gt;Zoomed-in screen content is sharper in the preview and in exports.&lt;/li&gt;&lt;li&gt;Exports that include microphone or system audio no longer fail after all frames have rendered.&lt;/li&gt;&lt;li&gt;Video exports finish faster: a 1440p 60 fps HEVC export takes about half as long as before.&lt;/li&gt;&lt;li&gt;Dragging Padding and other Frame settings, or a zoom&amp;#x27;s Level, now updates the preview while you drag instead of after you let go.&lt;/li&gt;&lt;li&gt;Sliders no longer jump back and forth while you drag, and the Zoom panel no longer shifts its layout during edits.&lt;/li&gt;&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v1.1.1/ScreenTale-1.1.1.dmg" length="31209230" type="application/octet-stream" sparkle:edSignature="GzNKXaX1nID+A9j3q+yakhKmfS32a+8o+dxgTbNr5o5LMdFi1Xc5Sat3Bub4okLqUd+8xtE6wtEdhBlEoWCKBw=="></enclosure>
+    </item>
+    <item>
       <title>1.0.4</title>
       <pubDate>Tue, 27 Oct 2026 15:17:22 GMT</pubDate>
       <sparkle:version>208</sparkle:version>
@@ -470,6 +482,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: JKsVnk7m4wBhuJBpt7jWnoneGd/modEM7aF8fylvfth2l3pqyDiGmm9FbNEzGNSYTpOgpufoh5PxHQVorRFHBA==
-length: 47749
+edSignature: BJeIpe49wX5NUTqVLiv5CzNlPO6R28YTjdgWT5yNrM0pBXcUAKkhlxP1G/aJLH5w3vQKUIe4fiNQvu1r2hKhCA==
+length: 49529
 -->

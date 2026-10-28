@@ -1,11 +1,11 @@
 {
-  "version": "1.0.4",
-  "notes": "ScreenTale 1.0.4 makes quitting ScreenTale reliable.\n\n- Quitting ScreenTale from a script, an automation tool or another app now quits ScreenTale itself, instead of sometimes failing because the background recorder received the request.\n",
-  "pub_date": "2026-10-27T15:17:22Z",
+  "version": "1.1.1",
+  "notes": "ScreenTale 1.1.1 adds sharper zoomed recordings, fixes exports with audio and makes editing feel immediate.\n\n- New experimental HiDPI capture option in Settings > Recording and the floating bar's Options menu. On a standard-resolution display, macOS draws the recorded display at 2x so zoomed-in footage keeps more detail. It is off by default and asks for confirmation before turning on.\n- Zoomed-in screen content is sharper in the preview and in exports.\n- Exports that include microphone or system audio no longer fail after all frames have rendered.\n- Video exports finish faster: a 1440p 60 fps HEVC export takes about half as long as before.\n- Dragging Padding and other Frame settings, or a zoom's Level, now updates the preview while you drag instead of after you let go.\n- Sliders no longer jump back and forth while you drag, and the Zoom panel no longer shifts its layout during edits.\n",
+  "pub_date": "2026-10-28T05:29:58Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/thienanblog/screentale-releases/releases/download/v1.0.4/ScreenTale-1.0.4.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEpGQ2xqS1dGaERVVTF6YnRJcnA0SkZRQkNqcEZ3dDMreXpmQys4QW0xU2dBMFd2T2tueHJBeHBwZzlQRTdvQ204RXd5UWViOTFoYWFObFRuQnNRbjBjcGowR1g1YVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTE0NDg2CWZpbGU6U2NyZWVuVGFsZS0xLjAuNC5hcHAudGFyLmd6CXZlcnNpb246MS4wLjQKZTVMVnRxd3d0OEcxTFpJc3VBV0pvSFM5b2pLdTVoQlUySzBWakRtdlZQaXdXNURDMnZDTy9ISHladndaWGFYSWxpbHlnSkZoSHVrNzNoUGNlUDVCRGc9PQo="
+      "url": "https://github.com/thienanblog/screentale-releases/releases/download/v1.1.1/ScreenTale-1.1.1.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEpGQ2xqS1dGaE9QZVBTRk13YytIeUNHMDh6QStpa240N0pnQkpycFJybm16TGNvbVdTVFpPeG83eUdiSDFsWUdkb3NhUWhBcWt6NGhZNUdxYlBtK1pvS3VCWE5URWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTY1NjgyCWZpbGU6U2NyZWVuVGFsZS0xLjEuMS5hcHAudGFyLmd6CXZlcnNpb246MS4xLjEKYVdZRHFpd3Fab29pcytQQndhWGV0SVk4dXFjN004Q2Q1NFQwdlFwY0xWTFVqUzJYeGNNc3RJNStqRnM4clZyQnhPK0swNGFiYXZuMzUxVEZTakVqQkE9PQo="
     }
   }
 }
