@@ -7,6 +7,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>1.13.0</title>
+      <pubDate>Thu, 29 Oct 2026 07:30:02 GMT</pubDate>
+      <sparkle:version>260</sparkle:version>
+      <sparkle:shortVersionString>1.13.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v1.13.0</link>
+      <description>&lt;p&gt;ScreenTale 1.13.0 gives each Camera clip its own layout, moves the camera bubble out of the cursor&amp;#x27;s way, and makes recording and exporting lighter and faster.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Camera clips now own their layout. Select a Camera clip on the Timeline to choose Picture in Picture, Side by Side or Full Screen and style its bubble for that clip. To change the layout part-way, split the clip. The Camera Changes row is gone; older projects open with their Camera clips split so they look exactly as before.&lt;/li&gt;&lt;li&gt;New Avoid cursor: the Picture in Picture bubble slides aside while the recorded cursor is near it, then returns, in both the preview and exports. It is on by default; choose the direction in Settings &amp;gt; Camera, or override it for one project in the Camera Inspector.&lt;/li&gt;&lt;li&gt;Annotations now follow the pointer while you drag them in the preview.&lt;/li&gt;&lt;li&gt;Every Inspector colour uses one colour picker with suggested swatches, the macOS colour panel, a hex field and an Opacity slider.&lt;/li&gt;&lt;li&gt;Annotation layers are shown in a compact Layers list where you can show, hide, lock, rename, reorder and delete them.&lt;/li&gt;&lt;li&gt;ScreenTale no longer saves projects automatically. An Edited badge shows unsaved changes, Save (⌘S) saves them, and closing, switching projects or quitting asks whether to save.&lt;/li&gt;&lt;li&gt;Dragging and resizing in the Fixed Zoom navigator works again.&lt;/li&gt;&lt;li&gt;New Recording size setting (Compact, Balanced or Maximum) in Settings &amp;gt; Recording. New installations start at Balanced and 30 fps for smaller recordings. Camera footage is recorded at 1080p.&lt;/li&gt;&lt;li&gt;Recordings look sharper at the same file size, and recorded audio is stored as Apple Lossless, which takes far less space with no loss in quality.&lt;/li&gt;&lt;li&gt;You can hide the floating camera preview while recording; the camera keeps recording.&lt;/li&gt;&lt;li&gt;Turning the microphone on or off, or switching cameras, no longer reloads the camera preview.&lt;/li&gt;&lt;li&gt;Video exports are faster, and GIF exports finish several times faster.&lt;/li&gt;&lt;li&gt;GIF export works again, and an intermittent &amp;quot;media backend failed&amp;quot; export error is fixed.&lt;/li&gt;&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v1.13.0/ScreenTale-1.13.0.dmg" length="31236032" type="application/octet-stream" sparkle:edSignature="C6WiLMgEs90yvL5PDW32onvNkCZZ1d/CUT1pXv/LzzQ7Jdw3+60N2/d67PL8LZnT9TQ2TO+EIFcTd0RjyWMABg=="></enclosure>
+    </item>
+    <item>
       <title>1.1.1</title>
       <pubDate>Wed, 28 Oct 2026 05:29:58 GMT</pubDate>
       <sparkle:version>226</sparkle:version>
@@ -482,6 +494,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: BJeIpe49wX5NUTqVLiv5CzNlPO6R28YTjdgWT5yNrM0pBXcUAKkhlxP1G/aJLH5w3vQKUIe4fiNQvu1r2hKhCA==
-length: 49529
+edSignature: YjotH0pMjDIYZpL/rNXtgBskOVmICQ0aq9WE80SSOpzf2z+o4c9hnyNUFByI5x68XGgzs9om1O4vayjh8aeIBg==
+length: 52579
 -->
