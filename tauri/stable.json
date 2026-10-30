@@ -1,11 +1,11 @@
 {
-  "version": "1.17.0",
-  "notes": "ScreenTale 1.17.0 makes it safer to edit a recording and lets you export just the part you need.\n\n- Reset to Original in the Editor's project menu removes every edit and brings back the full recording. Your recorded media was never changed by editing or Save, so a Save you did not mean to make no longer leaves you stuck with those edits. Undo brings them back until you save again.\n- Save As is now available from the File menu and with Shift-Command-S, so you can keep several edited versions of a recording.\n- Select clips on the Timeline, open Export and choose Selected clips under Range to export only that part. The save dialog now suggests your project's name.\n- With an active license or trial, the Export sheet now shows Export Video instead of Export with Watermark.\n- A renamed project now keeps its new name in Library after you switch to another recording.\n",
-  "pub_date": "2026-10-30T11:12:59Z",
+  "version": "1.18.2",
+  "notes": "ScreenTale 1.18.2 keeps the Editor working when a video frame fails to load and adds faster cutting on the Timeline.\n\n- Preview, the Timeline and the Inspector now recover on their own from a video frame that fails to load, including while you play or drag the playhead back and forth. The last image stays on screen while ScreenTale tries again, and a message appears only if the problem lasts. A missing or changed file is reported right away.\n- Pressing Retry in Preview now reloads the video and shows that it is working.\n- Timeline thumbnails, hover previews and waveforms try again without needing you to move the pointer or scroll.\n- The Zoom navigator stays in place during playback and scrubbing instead of reporting that the source preview is unavailable. It can be edited again when the playhead stops.\n- With a clip selected on the Timeline, press Q or E to split at the playhead and delete the left or right side. Drag a clip's edge to reveal more of its source.\n",
+  "pub_date": "2026-10-30T17:13:44Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/thienanblog/screentale-releases/releases/download/v1.17.0/ScreenTale-1.17.0.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEpGQ2xqS1dGaEVRWnhTazQyMDJEK0U4eGpyeDNnTW5iWFk1UmVSdm1pOFI3OWQ2ZnhISGgwT3dmcms3S2c0Rm9DckNrTkMxaXgyZXoxbExFbUlRZjVvUXFIYlpFR1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzU5MDI3CWZpbGU6U2NyZWVuVGFsZS0xLjE3LjAuYXBwLnRhci5negl2ZXJzaW9uOjEuMTcuMAozVGFIaWdONXpMa2c1N0hic1paZXpYTnZZWTh0a1RNMmo5SmVYUk5EQXN6MTVoR1Z6QW80Q3ZJUnkxQXBaUEtSSmV1MlpNQnBtKzBaWXhBeTVNc3ZDZz09Cg=="
+      "url": "https://github.com/thienanblog/screentale-releases/releases/download/v1.18.2/ScreenTale-1.18.2.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEpGQ2xqS1dGaE5EU0NhWnRDbXNxeGNHeEhLN1dNcWRoQ09sRFZzVzBkUkVKMElKcFRrTGM4cDkrZWZwOHJ1MnMxNjAyd3M4Yzl5eTVkVWNiMHBqY2NLRys4N3A3aGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzgwNjgwCWZpbGU6U2NyZWVuVGFsZS0xLjE4LjIuYXBwLnRhci5negl2ZXJzaW9uOjEuMTguMgprLzR6Y3JIN0loSGNUUzlZd2pKOEY3dUc3VHdPT3JoTjFtd2hSZXFhNUl2YmVVdXlncFhpdk9JMXVwalNJcXBxZXFuTHdEWVZYSjkyUklrdXlLVmNDUT09Cg=="
     }
   }
 }

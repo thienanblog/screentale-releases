@@ -7,6 +7,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>1.18.2</title>
+      <pubDate>Fri, 30 Oct 2026 17:13:44 GMT</pubDate>
+      <sparkle:version>276</sparkle:version>
+      <sparkle:shortVersionString>1.18.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v1.18.2</link>
+      <description>&lt;p&gt;ScreenTale 1.18.2 keeps the Editor working when a video frame fails to load and adds faster cutting on the Timeline.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Preview, the Timeline and the Inspector now recover on their own from a video frame that fails to load, including while you play or drag the playhead back and forth. The last image stays on screen while ScreenTale tries again, and a message appears only if the problem lasts. A missing or changed file is reported right away.&lt;/li&gt;&lt;li&gt;Pressing Retry in Preview now reloads the video and shows that it is working.&lt;/li&gt;&lt;li&gt;Timeline thumbnails, hover previews and waveforms try again without needing you to move the pointer or scroll.&lt;/li&gt;&lt;li&gt;The Zoom navigator stays in place during playback and scrubbing instead of reporting that the source preview is unavailable. It can be edited again when the playhead stops.&lt;/li&gt;&lt;li&gt;With a clip selected on the Timeline, press Q or E to split at the playhead and delete the left or right side. Drag a clip&amp;#x27;s edge to reveal more of its source.&lt;/li&gt;&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v1.18.2/ScreenTale-1.18.2.dmg" length="31305343" type="application/octet-stream" sparkle:edSignature="8WfkzM6f/Gh3k9JOdmBY1qGohYC2+A47Y9ET+OrYxDM+BG3+iXyD/rQOj6jAjOHrcVz/obvO8uuP0jgC6R4pDQ=="></enclosure>
+    </item>
+    <item>
       <title>1.17.0</title>
       <pubDate>Fri, 30 Oct 2026 11:12:59 GMT</pubDate>
       <sparkle:version>273</sparkle:version>
@@ -542,6 +554,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: n/CwKQkmrwN3nAYj0ezSU0hiCYF0fbNeGn3SdedwK2WPWwbeeOcBYofT81bBJcz0j6PMrh7dtlPAqVJA8M91Dw==
-length: 59776
+edSignature: q+HSDYfLScvGBGOxfi7M9WuMwZ4zWJ+AkKi6owK4UXWkSjy4IeKp5O9GvPt8cVH0ge10YORiOmreTk3bq2EDCg==
+length: 61605
 -->
