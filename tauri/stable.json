@@ -1,11 +1,11 @@
 {
-  "version": "1.15.3",
-  "notes": "ScreenTale 1.15.3 makes USB and wireless microphones record, shows the camera preview at its real brightness, and gives clearer feedback while you sign in.\n\n- USB and wireless microphone receivers that send integer audio, such as the DJI Wireless Mic Rx, now record. Before, they appeared in the microphone list but the recording had no microphone sound.\n- The floating camera preview now matches the brightness you see in Photo Booth or FaceTime. It was shown much darker than the camera actually recorded; recordings and exports were not affected.\n- Log In in Settings now shows \"Opening Browser…\" while your browser opens, and Settings shows \"Finishing sign-in…\" after you return to ScreenTale, so a slow network no longer looks like nothing happened.\n",
-  "pub_date": "2026-10-30T04:11:14Z",
+  "version": "1.16.0",
+  "notes": "ScreenTale 1.16.0 lets you leave the menu bar and the Dock out of your recordings.\n\n- Turn off Record the menu bar or Record the Dock in the recording bar's Options menu, or set them as defaults in Settings > Recording. A full-screen recording then shrinks to the area between the menu bar and the Dock, and the selection frame on screen shrinks with it and dims the parts that will be left out, so you can see exactly what will be recorded.\n- In an Area recording that overlaps them, the menu bar and the Dock are removed and whatever is behind them, usually your wallpaper, is recorded instead.\n- Both options start on, so your recordings look the same as before until you change them, and ScreenTale remembers your choice. One Window and Entire App recordings are unchanged.\n",
+  "pub_date": "2026-10-30T05:09:30Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/thienanblog/screentale-releases/releases/download/v1.15.3/ScreenTale-1.15.3.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEpGQ2xqS1dGaE82UU9rMUNqa20xZ2JRa2hCSjArUC9Cd0dCdDRlN3JvRVBvcGNCb0tQTlAxZEFST3ZkT000Z25TMHhZMGVoSk9FNTlnSUM1UU9QdDkzTFJ1dlVReHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzMzNzM4CWZpbGU6U2NyZWVuVGFsZS0xLjE1LjMuYXBwLnRhci5negl2ZXJzaW9uOjEuMTUuMwpZNTZwbWRCR0ZtdU55bExUZTc4L29HVE1HNHV2MmpHQ0NxRmE5NzlFdUVYeDNxMys5TjZVdzkwSXNrSE9GSTM2azZIY3NTc1pJcSs3T001YTJ6MTFCQT09Cg=="
+      "url": "https://github.com/thienanblog/screentale-releases/releases/download/v1.16.0/ScreenTale-1.16.0.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEpGQ2xqS1dGaEJRTWdDbm4wRW9RdkhwMWszU0FrQnVaYllUeVVHdU1UYVYrQXpUUXl0UHZuMnRndjlBdlpZcXl3YkVMd0ZSZG1iNmJFU3l4VHloMkpHOFQyVXlPUmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzM3MjY2CWZpbGU6U2NyZWVuVGFsZS0xLjE2LjAuYXBwLnRhci5negl2ZXJzaW9uOjEuMTYuMApKWDJkdnN3QUtNUnQ5MHdjQm9zazZQSitpZnIzd0pIa2YranZVUjBhaVVNR2w2WU9OcTh0cENZcjRNQUhtL0hMdWNMU0h0T3BzM01nV3NsU1RpSTFEUT09Cg=="
     }
   }
 }

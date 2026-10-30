@@ -7,6 +7,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>1.16.0</title>
+      <pubDate>Fri, 30 Oct 2026 05:09:30 GMT</pubDate>
+      <sparkle:version>271</sparkle:version>
+      <sparkle:shortVersionString>1.16.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v1.16.0</link>
+      <description>&lt;p&gt;ScreenTale 1.16.0 lets you leave the menu bar and the Dock out of your recordings.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Turn off Record the menu bar or Record the Dock in the recording bar&amp;#x27;s Options menu, or set them as defaults in Settings &amp;gt; Recording. A full-screen recording then shrinks to the area between the menu bar and the Dock, and the selection frame on screen shrinks with it and dims the parts that will be left out, so you can see exactly what will be recorded.&lt;/li&gt;&lt;li&gt;In an Area recording that overlaps them, the menu bar and the Dock are removed and whatever is behind them, usually your wallpaper, is recorded instead.&lt;/li&gt;&lt;li&gt;Both options start on, so your recordings look the same as before until you change them, and ScreenTale remembers your choice. One Window and Entire App recordings are unchanged.&lt;/li&gt;&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v1.16.0/ScreenTale-1.16.0.dmg" length="31262683" type="application/octet-stream" sparkle:edSignature="rUPtJ8pRtIjMG58mQ0vD+84axwLSKGTKE6GsjeuB5muX99NpzG+pBie6/qzwAm45qTmpkjLo5eSjsJDVe1fUDw=="></enclosure>
+    </item>
+    <item>
       <title>1.15.3</title>
       <pubDate>Fri, 30 Oct 2026 04:11:14 GMT</pubDate>
       <sparkle:version>267</sparkle:version>
@@ -518,6 +530,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 9Q22m2uQEp+O7EU6sm7f5EHTR5z4pi0putYSDyoo9EsZzZMsr/g77OpIAjC967KfACo3Vm0ZlMg/Y3U42zXUAA==
-length: 56440
+edSignature: 3rs+CAz5AWAGSnYYcDTre5YVoc6L05aPhOZhgOOLVUMUvYQKZo9a7nMh1QCtW9d92XvRMTbsAVxzsS7ClvCNDw==
+length: 58042
 -->
