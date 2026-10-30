@@ -1,11 +1,11 @@
 {
-  "version": "1.16.0",
-  "notes": "ScreenTale 1.16.0 lets you leave the menu bar and the Dock out of your recordings.\n\n- Turn off Record the menu bar or Record the Dock in the recording bar's Options menu, or set them as defaults in Settings > Recording. A full-screen recording then shrinks to the area between the menu bar and the Dock, and the selection frame on screen shrinks with it and dims the parts that will be left out, so you can see exactly what will be recorded.\n- In an Area recording that overlaps them, the menu bar and the Dock are removed and whatever is behind them, usually your wallpaper, is recorded instead.\n- Both options start on, so your recordings look the same as before until you change them, and ScreenTale remembers your choice. One Window and Entire App recordings are unchanged.\n",
-  "pub_date": "2026-10-30T05:09:30Z",
+  "version": "1.17.0",
+  "notes": "ScreenTale 1.17.0 makes it safer to edit a recording and lets you export just the part you need.\n\n- Reset to Original in the Editor's project menu removes every edit and brings back the full recording. Your recorded media was never changed by editing or Save, so a Save you did not mean to make no longer leaves you stuck with those edits. Undo brings them back until you save again.\n- Save As is now available from the File menu and with Shift-Command-S, so you can keep several edited versions of a recording.\n- Select clips on the Timeline, open Export and choose Selected clips under Range to export only that part. The save dialog now suggests your project's name.\n- With an active license or trial, the Export sheet now shows Export Video instead of Export with Watermark.\n- A renamed project now keeps its new name in Library after you switch to another recording.\n",
+  "pub_date": "2026-10-30T11:12:59Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/thienanblog/screentale-releases/releases/download/v1.16.0/ScreenTale-1.16.0.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEpGQ2xqS1dGaEJRTWdDbm4wRW9RdkhwMWszU0FrQnVaYllUeVVHdU1UYVYrQXpUUXl0UHZuMnRndjlBdlpZcXl3YkVMd0ZSZG1iNmJFU3l4VHloMkpHOFQyVXlPUmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzM3MjY2CWZpbGU6U2NyZWVuVGFsZS0xLjE2LjAuYXBwLnRhci5negl2ZXJzaW9uOjEuMTYuMApKWDJkdnN3QUtNUnQ5MHdjQm9zazZQSitpZnIzd0pIa2YranZVUjBhaVVNR2w2WU9OcTh0cENZcjRNQUhtL0hMdWNMU0h0T3BzM01nV3NsU1RpSTFEUT09Cg=="
+      "url": "https://github.com/thienanblog/screentale-releases/releases/download/v1.17.0/ScreenTale-1.17.0.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEpGQ2xqS1dGaEVRWnhTazQyMDJEK0U4eGpyeDNnTW5iWFk1UmVSdm1pOFI3OWQ2ZnhISGgwT3dmcms3S2c0Rm9DckNrTkMxaXgyZXoxbExFbUlRZjVvUXFIYlpFR1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzU5MDI3CWZpbGU6U2NyZWVuVGFsZS0xLjE3LjAuYXBwLnRhci5negl2ZXJzaW9uOjEuMTcuMAozVGFIaWdONXpMa2c1N0hic1paZXpYTnZZWTh0a1RNMmo5SmVYUk5EQXN6MTVoR1Z6QW80Q3ZJUnkxQXBaUEtSSmV1MlpNQnBtKzBaWXhBeTVNc3ZDZz09Cg=="
     }
   }
 }

@@ -7,6 +7,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>1.17.0</title>
+      <pubDate>Fri, 30 Oct 2026 11:12:59 GMT</pubDate>
+      <sparkle:version>273</sparkle:version>
+      <sparkle:shortVersionString>1.17.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v1.17.0</link>
+      <description>&lt;p&gt;ScreenTale 1.17.0 makes it safer to edit a recording and lets you export just the part you need.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Reset to Original in the Editor&amp;#x27;s project menu removes every edit and brings back the full recording. Your recorded media was never changed by editing or Save, so a Save you did not mean to make no longer leaves you stuck with those edits. Undo brings them back until you save again.&lt;/li&gt;&lt;li&gt;Save As is now available from the File menu and with Shift-Command-S, so you can keep several edited versions of a recording.&lt;/li&gt;&lt;li&gt;Select clips on the Timeline, open Export and choose Selected clips under Range to export only that part. The save dialog now suggests your project&amp;#x27;s name.&lt;/li&gt;&lt;li&gt;With an active license or trial, the Export sheet now shows Export Video instead of Export with Watermark.&lt;/li&gt;&lt;li&gt;A renamed project now keeps its new name in Library after you switch to another recording.&lt;/li&gt;&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v1.17.0/ScreenTale-1.17.0.dmg" length="31278317" type="application/octet-stream" sparkle:edSignature="rXBYfwiFmSn9oI7vhRQ24scOrp+zR/OR9PFP+jLrjkcQ1nXy22IXxKGNb+wMZvRUrus/hMLQ4yMX+ZKB7v1DDA=="></enclosure>
+    </item>
+    <item>
       <title>1.16.0</title>
       <pubDate>Fri, 30 Oct 2026 05:09:30 GMT</pubDate>
       <sparkle:version>271</sparkle:version>
@@ -530,6 +542,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 3rs+CAz5AWAGSnYYcDTre5YVoc6L05aPhOZhgOOLVUMUvYQKZo9a7nMh1QCtW9d92XvRMTbsAVxzsS7ClvCNDw==
-length: 58042
+edSignature: n/CwKQkmrwN3nAYj0ezSU0hiCYF0fbNeGn3SdedwK2WPWwbeeOcBYofT81bBJcz0j6PMrh7dtlPAqVJA8M91Dw==
+length: 59776
 -->
