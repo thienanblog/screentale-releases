@@ -7,6 +7,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>1.15.3</title>
+      <pubDate>Fri, 30 Oct 2026 04:11:14 GMT</pubDate>
+      <sparkle:version>267</sparkle:version>
+      <sparkle:shortVersionString>1.15.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v1.15.3</link>
+      <description>&lt;p&gt;ScreenTale 1.15.3 makes USB and wireless microphones record, shows the camera preview at its real brightness, and gives clearer feedback while you sign in.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;USB and wireless microphone receivers that send integer audio, such as the DJI Wireless Mic Rx, now record. Before, they appeared in the microphone list but the recording had no microphone sound.&lt;/li&gt;&lt;li&gt;The floating camera preview now matches the brightness you see in Photo Booth or FaceTime. It was shown much darker than the camera actually recorded; recordings and exports were not affected.&lt;/li&gt;&lt;li&gt;Log In in Settings now shows &amp;quot;Opening Browser…&amp;quot; while your browser opens, and Settings shows &amp;quot;Finishing sign-in…&amp;quot; after you return to ScreenTale, so a slow network no longer looks like nothing happened.&lt;/li&gt;&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v1.15.3/ScreenTale-1.15.3.dmg" length="31248685" type="application/octet-stream" sparkle:edSignature="2anRJZNjweLo8PDWu3LXmo1tiNz+4u17ooknAQV1Q95D72z5gnu5ULoc+OquXYGR9RT18EdgFhzHVEy3hdFgAQ=="></enclosure>
+    </item>
+    <item>
       <title>1.15.0</title>
       <pubDate>Thu, 29 Oct 2026 11:41:47 GMT</pubDate>
       <sparkle:version>263</sparkle:version>
@@ -506,6 +518,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: OY8NzpEeGPOST4KziYki7jfbTk0YvukzhlQRx96K9AYDCSQkmidFd5Q41gHe8M/mWvlr3jBES1GbHDlQ5Q9JAw==
-length: 54837
+edSignature: 9Q22m2uQEp+O7EU6sm7f5EHTR5z4pi0putYSDyoo9EsZzZMsr/g77OpIAjC967KfACo3Vm0ZlMg/Y3U42zXUAA==
+length: 56440
 -->
