@@ -1,11 +1,11 @@
 {
-  "version": "1.18.2",
-  "notes": "ScreenTale 1.18.2 keeps the Editor working when a video frame fails to load and adds faster cutting on the Timeline.\n\n- Preview, the Timeline and the Inspector now recover on their own from a video frame that fails to load, including while you play or drag the playhead back and forth. The last image stays on screen while ScreenTale tries again, and a message appears only if the problem lasts. A missing or changed file is reported right away.\n- Pressing Retry in Preview now reloads the video and shows that it is working.\n- Timeline thumbnails, hover previews and waveforms try again without needing you to move the pointer or scroll.\n- The Zoom navigator stays in place during playback and scrubbing instead of reporting that the source preview is unavailable. It can be edited again when the playhead stops.\n- With a clip selected on the Timeline, press Q or E to split at the playhead and delete the left or right side. Drag a clip's edge to reveal more of its source.\n",
-  "pub_date": "2026-10-30T17:13:44Z",
+  "version": "1.18.5",
+  "notes": "ScreenTale 1.18.5 keeps long recordings running when you step away from your Mac.\n\n- Your Mac and its display now stay awake during a recording or an Editor microphone take, even with no keyboard or mouse activity, so idle sleep no longer ends it.\n- While a recording is paused, your Mac stays awake for up to 30 minutes and can then sleep normally.\n- If your Mac is about to sleep anyway, for example when you close the lid, ScreenTale stops and saves the open recording or microphone take first.\n",
+  "pub_date": "2026-10-31T08:25:38Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/thienanblog/screentale-releases/releases/download/v1.18.2/ScreenTale-1.18.2.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEpGQ2xqS1dGaE5EU0NhWnRDbXNxeGNHeEhLN1dNcWRoQ09sRFZzVzBkUkVKMElKcFRrTGM4cDkrZWZwOHJ1MnMxNjAyd3M4Yzl5eTVkVWNiMHBqY2NLRys4N3A3aGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzgwNjgwCWZpbGU6U2NyZWVuVGFsZS0xLjE4LjIuYXBwLnRhci5negl2ZXJzaW9uOjEuMTguMgprLzR6Y3JIN0loSGNUUzlZd2pKOEY3dUc3VHdPT3JoTjFtd2hSZXFhNUl2YmVVdXlncFhpdk9JMXVwalNJcXBxZXFuTHdEWVZYSjkyUklrdXlLVmNDUT09Cg=="
+      "url": "https://github.com/thienanblog/screentale-releases/releases/download/v1.18.5/ScreenTale-1.18.5.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEpGQ2xqS1dGaEZOaTJYY0JzeDV1c0paSzJpZ2l3bjRScG56SHVvK1ltYThDVWw1eUxtZ0dHUUNNWVhRM3Vsc2FQM0tLQ29JVFYrVE1OVWIrOFNFS1NyRFA3VlJjL1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDM1NjYwCWZpbGU6U2NyZWVuVGFsZS0xLjE4LjUuYXBwLnRhci5negl2ZXJzaW9uOjEuMTguNQpJcXZQOXowWURTUjFES29RZHQwWFZNM0gyWjMzN09ldDFyL25WTEVDNVRDZERoNHRJZFJZQS90aWxVUmhiMjUrU1pVWVBTc0VFR2pqU3VtZ0lsaUZDZz09Cg=="
     }
   }
 }
