@@ -7,6 +7,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>1.19.0</title>
+      <pubDate>Tue, 03 Nov 2026 02:23:20 GMT</pubDate>
+      <sparkle:version>288</sparkle:version>
+      <sparkle:shortVersionString>1.19.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v1.19.0</link>
+      <description>&lt;p&gt;ScreenTale 1.19.0 adds right-click menus to the Editor Timeline and makes Timeline editing smoother.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Right-click (or Control-click) a clip, Zoom, annotation, mark or empty track to act on it directly: copy, paste, duplicate, split, group or ungroup clips, change Video speed, Camera layout and visibility, Zoom level and cursor following, move an annotation to another layer, lock a layer, or add a Zoom, annotation or mark at the clicked time.&lt;/li&gt;&lt;li&gt;Dragging inside a multi-selection now moves the whole selection, even when you grab a clip&amp;#x27;s edge, and holding the selection key while dragging adds the clip to the selection.&lt;/li&gt;&lt;li&gt;You can start the next drag while the previous edit is still being applied.&lt;/li&gt;&lt;li&gt;Zooming the Timeline no longer regenerates its thumbnails, and selecting a Zoom no longer pauses editing.&lt;/li&gt;&lt;li&gt;Save As…, Export…, Playback and Reset to Original… now live in the File menu and in the open recording&amp;#x27;s Library row menu.&lt;/li&gt;&lt;li&gt;The Timeline no longer shows hover previews; scrubbing shows the edited frame in the main Preview instead.&lt;/li&gt;&lt;li&gt;Saving or opening a dialog no longer shows a false &amp;quot;Could not apply the edit&amp;quot; notice.&lt;/li&gt;&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v1.19.0/ScreenTale-1.19.0.dmg" length="31327227" type="application/octet-stream" sparkle:edSignature="SZqrcMY3tubSH+v/I1XUKpF03Cyr41tHDUMeLUrPnpUKRB+77UOy0jMAlYruGat80ePPR0bNQChMcN5Oy82vBg=="></enclosure>
+    </item>
+    <item>
       <title>1.18.5</title>
       <pubDate>Sat, 31 Oct 2026 08:25:38 GMT</pubDate>
       <sparkle:version>279</sparkle:version>
@@ -566,6 +578,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: gncXr15grQZpw+rFG72B09qpPeqDqH8XJbJidULenI3HTOxn05nZVCo45eyyDNaXWVaxZ7xYASnziavGR2KhCw==
-length: 62911
+edSignature: IPfmwvSKvVt050MSMEfcCIQZGKJO5Lr21B2+PJ6190X5mzDZYoKU27yLdASPpVIxiEOQhSiE3z++JLMdkHxOAg==
+length: 64967
 -->

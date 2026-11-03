@@ -1,11 +1,11 @@
 {
-  "version": "1.18.5",
-  "notes": "ScreenTale 1.18.5 keeps long recordings running when you step away from your Mac.\n\n- Your Mac and its display now stay awake during a recording or an Editor microphone take, even with no keyboard or mouse activity, so idle sleep no longer ends it.\n- While a recording is paused, your Mac stays awake for up to 30 minutes and can then sleep normally.\n- If your Mac is about to sleep anyway, for example when you close the lid, ScreenTale stops and saves the open recording or microphone take first.\n",
-  "pub_date": "2026-10-31T08:25:38Z",
+  "version": "1.19.0",
+  "notes": "ScreenTale 1.19.0 adds right-click menus to the Editor Timeline and makes Timeline editing smoother.\n\n- Right-click (or Control-click) a clip, Zoom, annotation, mark or empty track to act on it directly: copy, paste, duplicate, split, group or ungroup clips, change Video speed, Camera layout and visibility, Zoom level and cursor following, move an annotation to another layer, lock a layer, or add a Zoom, annotation or mark at the clicked time.\n- Dragging inside a multi-selection now moves the whole selection, even when you grab a clip's edge, and holding the selection key while dragging adds the clip to the selection.\n- You can start the next drag while the previous edit is still being applied.\n- Zooming the Timeline no longer regenerates its thumbnails, and selecting a Zoom no longer pauses editing.\n- Save As…, Export…, Playback and Reset to Original… now live in the File menu and in the open recording's Library row menu.\n- The Timeline no longer shows hover previews; scrubbing shows the edited frame in the main Preview instead.\n- Saving or opening a dialog no longer shows a false \"Could not apply the edit\" notice.\n",
+  "pub_date": "2026-11-03T02:23:20Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/thienanblog/screentale-releases/releases/download/v1.18.5/ScreenTale-1.18.5.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEpGQ2xqS1dGaEZOaTJYY0JzeDV1c0paSzJpZ2l3bjRScG56SHVvK1ltYThDVWw1eUxtZ0dHUUNNWVhRM3Vsc2FQM0tLQ29JVFYrVE1OVWIrOFNFS1NyRFA3VlJjL1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDM1NjYwCWZpbGU6U2NyZWVuVGFsZS0xLjE4LjUuYXBwLnRhci5negl2ZXJzaW9uOjEuMTguNQpJcXZQOXowWURTUjFES29RZHQwWFZNM0gyWjMzN09ldDFyL25WTEVDNVRDZERoNHRJZFJZQS90aWxVUmhiMjUrU1pVWVBTc0VFR2pqU3VtZ0lsaUZDZz09Cg=="
+      "url": "https://github.com/thienanblog/screentale-releases/releases/download/v1.19.0/ScreenTale-1.19.0.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEpGQ2xqS1dGaEhqaHR1RmptQzhzRk9ZVWQxZzhVZnpZQ1daY2ZBVEVRbW5aL0Q3Vk9ZNGtDS0RUOFdKZmF2aWxhSitpV1VTR3pXS0U4UDlOZzBCblpYVFdGYTFzMEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjcyODc1CWZpbGU6U2NyZWVuVGFsZS0xLjE5LjAuYXBwLnRhci5negl2ZXJzaW9uOjEuMTkuMApXWHBTYjhqWnJIRndBSWRrUy9jNmo4ZzlLS2tOUEE2RU91OVZ1YTJ0bVFvZGRqaEJEaCtrVm5HeGxHQzJtTHk4Z2hSV0Nsb3ljQTVhblZKTk4ySTlCUT09Cg=="
     }
   }
 }
