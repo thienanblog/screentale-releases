@@ -7,6 +7,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>1.23.1</title>
+      <pubDate>Wed, 11 Nov 2026 11:16:49 GMT</pubDate>
+      <sparkle:version>300</sparkle:version>
+      <sparkle:shortVersionString>1.23.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v1.23.1</link>
+      <description>&lt;p&gt;ScreenTale 1.23.1 makes recovering interrupted recordings easier, saves project names immediately and makes Timeline editing more precise.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Open File › Recover Unfinished Recordings… at any time to review recordings that were interrupted by a crash or power loss. If any are still waiting when ScreenTale starts, the Recovery window opens so you can decide.&lt;/li&gt;&lt;li&gt;In the Recovery window you can select one, several or all recordings to recover them, move them to Trash with a single confirmation, or choose Don’t remind me. Skipped recordings stay listed and can be reminded again.&lt;/li&gt;&lt;li&gt;ScreenTale no longer rescans your Library in the background every second while an interrupted recording exists.&lt;/li&gt;&lt;li&gt;Renaming a project in the Editor title or with Library Rename… is saved right away; you no longer need to press Save just for a new name.&lt;/li&gt;&lt;li&gt;Fixed Save occasionally failing even when only the name had changed.&lt;/li&gt;&lt;li&gt;Moving the recording bar to another display no longer changes which display is recorded.&lt;/li&gt;&lt;li&gt;Click the main video, an overlay video, the Camera bubble or an annotation in the paused Preview to select it on the Timeline.&lt;/li&gt;&lt;li&gt;The Split menu has a Split includes setting to also cut Zoom and annotation blocks at the playhead.&lt;/li&gt;&lt;li&gt;The Magnet menu lets you choose which blocks the playhead and clips snap to, and the Speed sliders snap to common values such as 1.5×. Hold Option to drag freely.&lt;/li&gt;&lt;li&gt;Crop shows the original frame continuously while you drag, and cropped clips are marked on the Timeline.&lt;/li&gt;&lt;li&gt;The Preview stays steady while you resize the Editor window.&lt;/li&gt;&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v1.23.1/ScreenTale-1.23.1.dmg" length="31364854" type="application/octet-stream" sparkle:edSignature="+0KGZxEH/oF+vtC8lnVuoB1S4yayGMRk+LYczbnEIhNvCeXqswl4152ac5S1/lPWwF1h0lfWua7LLFJic12MCQ=="></enclosure>
+    </item>
+    <item>
       <title>1.19.0</title>
       <pubDate>Tue, 03 Nov 2026 02:23:20 GMT</pubDate>
       <sparkle:version>288</sparkle:version>
@@ -578,6 +590,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: IPfmwvSKvVt050MSMEfcCIQZGKJO5Lr21B2+PJ6190X5mzDZYoKU27yLdASPpVIxiEOQhSiE3z++JLMdkHxOAg==
-length: 64967
+edSignature: 7YeaK4RWbRM6V1IYoMArroMwDJiy725T5wI1DeeDQAZjsftc0j9s0i4sZA3HwGPMl6iNPakcPvi+O9/koVmyBg==
+length: 67490
 -->
