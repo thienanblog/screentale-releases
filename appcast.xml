@@ -7,6 +7,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>1.24.0</title>
+      <pubDate>Thu, 12 Nov 2026 11:15:30 GMT</pubDate>
+      <sparkle:version>301</sparkle:version>
+      <sparkle:shortVersionString>1.24.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v1.24.0</link>
+      <description>&lt;p&gt;ScreenTale 1.24.0 makes it easier to try every feature for free before you decide to buy.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;If you have not bought ScreenTale or used your Launch Pass yet, Settings › License now starts with a Try ScreenTale Free for 30 Days card. Start the 30-day Launch Pass for full-quality exports without a watermark, or buy a lifetime license from the same card. No payment method is needed for the Launch Pass.&lt;/li&gt;&lt;li&gt;After you finish granting permissions, ScreenTale invites you once to start your Launch Pass. Choose Not Now, Buy Lifetime License or Start 30-Day Launch Pass.&lt;/li&gt;&lt;li&gt;Upgrade in the Editor now offers the Launch Pass first while it is still available to you, with Buy Lifetime License in the same dialog.&lt;/li&gt;&lt;li&gt;If your Launch Pass has already ended, ScreenTale now says so and offers Buy Lifetime License instead of showing a connection error.&lt;/li&gt;&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v1.24.0/ScreenTale-1.24.0.dmg" length="31367491" type="application/octet-stream" sparkle:edSignature="pVwmBKQkzWdkn9aAwFWiLkbRShR7vCtMd7+nrN1596NGl5i3Bj5+XI1wVzwKTlTraXlIca88NoNXNgREbAJXCg=="></enclosure>
+    </item>
+    <item>
       <title>1.23.1</title>
       <pubDate>Wed, 11 Nov 2026 11:16:49 GMT</pubDate>
       <sparkle:version>300</sparkle:version>
@@ -590,6 +602,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 7YeaK4RWbRM6V1IYoMArroMwDJiy725T5wI1DeeDQAZjsftc0j9s0i4sZA3HwGPMl6iNPakcPvi+O9/koVmyBg==
-length: 67490
+edSignature: jyMPG6lEJIe5Bx6jzg2tMI/LkbJfZNuCihfsd+k8y4mWsgOPGpkgfYhwPotJACXvGVmNVWqs/fd3ZyJpeCPICQ==
+length: 69156
 -->
