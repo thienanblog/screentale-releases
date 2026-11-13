@@ -7,6 +7,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>1.24.2</title>
+      <pubDate>Fri, 13 Nov 2026 11:19:29 GMT</pubDate>
+      <sparkle:version>303</sparkle:version>
+      <sparkle:shortVersionString>1.24.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v1.24.2</link>
+      <description>&lt;p&gt;ScreenTale 1.24.2 keeps your camera working when the selected microphone is missing and makes annotations easier to arrange.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;If the microphone you selected is unplugged, the Camera keeps its preview and stays ready. The recording bar shows that the selected microphone was not detected, and you can still change the camera and other options.&lt;/li&gt;&lt;li&gt;Record waits until you reconnect that microphone, choose another one or turn the microphone off. ScreenTale never switches to a different microphone on its own. When you plug it back in, the recording bar picks it up within a few seconds without a manual refresh.&lt;/li&gt;&lt;li&gt;New annotations no longer depend on what is selected. They appear in front of every annotation showing at the same time, so they are never hidden behind older ones.&lt;/li&gt;&lt;li&gt;Drag an annotation block up or down on the Timeline to move it to another Annotation layer. Dropping it on a busy layer or between layers creates a new layer just in front. Annotation layers are listed front to back, and a layer left empty is removed.&lt;/li&gt;&lt;li&gt;The Timeline scrollbars now show a thumb sized to the visible part of your project. Drag it, click the track to move by a page, or use the arrow, Page Up/Down, Home and End keys.&lt;/li&gt;&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v1.24.2/ScreenTale-1.24.2.dmg" length="31379089" type="application/octet-stream" sparkle:edSignature="fEzuTQKVRiXMwi0a1fTHZ0TRewxUjUg7Dn1zP6tN2fvWlcVUKO/BXofGNfuaG7g20WsgRexwJw+yN0OxUym5Cw=="></enclosure>
+    </item>
+    <item>
       <title>1.24.0</title>
       <pubDate>Thu, 12 Nov 2026 11:15:30 GMT</pubDate>
       <sparkle:version>301</sparkle:version>
@@ -602,6 +614,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: jyMPG6lEJIe5Bx6jzg2tMI/LkbJfZNuCihfsd+k8y4mWsgOPGpkgfYhwPotJACXvGVmNVWqs/fd3ZyJpeCPICQ==
-length: 69156
+edSignature: UJHzx0jQ4KwHezVT1WyJGa8bo5OhJQWKTMiSJJSwUXc1OoTBMbuy5wQGPCFW6LmeX94Q6gkD6/O83aprtV/zAg==
+length: 71213
 -->
