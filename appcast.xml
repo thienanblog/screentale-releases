@@ -7,6 +7,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>1.24.3</title>
+      <pubDate>Sat, 14 Nov 2026 11:03:33 GMT</pubDate>
+      <sparkle:version>304</sparkle:version>
+      <sparkle:shortVersionString>1.24.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v1.24.3</link>
+      <description>&lt;p&gt;ScreenTale 1.24.3 makes Preview follow the Editor window smoothly while you resize it.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;When you drag the edge of the Editor window or the divider above the Timeline, Preview now grows and shrinks with its space as you drag. The video keeps its aspect ratio and is never stretched or cut off.&lt;/li&gt;&lt;li&gt;While you drag, Preview scales the current picture instead of redrawing it at every size, so resizing stays smooth even during playback. A picture made larger can look slightly soft until you let go.&lt;/li&gt;&lt;li&gt;When you release the mouse, Preview redraws once at the new size. Resizing several times in a row redraws only after you finish.&lt;/li&gt;&lt;li&gt;Preview handles for crop, camera, video, annotations and zoom hide while you resize and return when the new size is drawn.&lt;/li&gt;&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v1.24.3/ScreenTale-1.24.3.dmg" length="31377098" type="application/octet-stream" sparkle:edSignature="5n9R2QW0JoyUSyoBhkVwSMG5IFRiNIoiybKpktThQwh27xvpVydua5ndB43sOCq6aze4mw9JtwJ1wDhFbECIBw=="></enclosure>
+    </item>
+    <item>
       <title>1.24.2</title>
       <pubDate>Fri, 13 Nov 2026 11:19:29 GMT</pubDate>
       <sparkle:version>303</sparkle:version>
@@ -614,6 +626,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: UJHzx0jQ4KwHezVT1WyJGa8bo5OhJQWKTMiSJJSwUXc1OoTBMbuy5wQGPCFW6LmeX94Q6gkD6/O83aprtV/zAg==
-length: 71213
+edSignature: Zuon/fndUrarA7sVMzQZeGEPxMSiTufpCkSgXRA3vq79+4GUWVEv02HjwTCL2JavjyohB6M5/zOeiGNvIcctCQ==
+length: 72792
 -->

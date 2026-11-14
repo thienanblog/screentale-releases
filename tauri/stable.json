@@ -1,11 +1,11 @@
 {
-  "version": "1.24.2",
-  "notes": "ScreenTale 1.24.2 keeps your camera working when the selected microphone is missing and makes annotations easier to arrange.\n\n- If the microphone you selected is unplugged, the Camera keeps its preview and stays ready. The recording bar shows that the selected microphone was not detected, and you can still change the camera and other options.\n- Record waits until you reconnect that microphone, choose another one or turn the microphone off. ScreenTale never switches to a different microphone on its own. When you plug it back in, the recording bar picks it up within a few seconds without a manual refresh.\n- New annotations no longer depend on what is selected. They appear in front of every annotation showing at the same time, so they are never hidden behind older ones.\n- Drag an annotation block up or down on the Timeline to move it to another Annotation layer. Dropping it on a busy layer or between layers creates a new layer just in front. Annotation layers are listed front to back, and a layer left empty is removed.\n- The Timeline scrollbars now show a thumb sized to the visible part of your project. Drag it, click the track to move by a page, or use the arrow, Page Up/Down, Home and End keys.\n",
-  "pub_date": "2026-11-13T11:19:29Z",
+  "version": "1.24.3",
+  "notes": "ScreenTale 1.24.3 makes Preview follow the Editor window smoothly while you resize it.\n\n- When you drag the edge of the Editor window or the divider above the Timeline, Preview now grows and shrinks with its space as you drag. The video keeps its aspect ratio and is never stretched or cut off.\n- While you drag, Preview scales the current picture instead of redrawing it at every size, so resizing stays smooth even during playback. A picture made larger can look slightly soft until you let go.\n- When you release the mouse, Preview redraws once at the new size. Resizing several times in a row redraws only after you finish.\n- Preview handles for crop, camera, video, annotations and zoom hide while you resize and return when the new size is drawn.\n",
+  "pub_date": "2026-11-14T11:03:33Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/thienanblog/screentale-releases/releases/download/v1.24.2/ScreenTale-1.24.2.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEpGQ2xqS1dGaEplaUlGRWNvK2VYR0g4V253Mk5sSzR6Q3B0Qy9UbUJUaFNJTUE5WUlZMHl3ZXFMaDh1Z2NyTHVWRHFFSkwzQVM0b0xpZTlzbmFSZTBINDY1dW9UUXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTY5MDg1CWZpbGU6U2NyZWVuVGFsZS0xLjI0LjIuYXBwLnRhci5negl2ZXJzaW9uOjEuMjQuMgp2a0hyQjdkT0xwdVZhQXlyeWFNRG9xaUh0QmFqK2RoeDBZR3NEblFUdE43QnJpNFFXQjBBeWMyNGY3V0ZQUm9SOEJLTk03THk5dE9PK2FHQ2dLTWRDZz09Cg=="
+      "url": "https://github.com/thienanblog/screentale-releases/releases/download/v1.24.3/ScreenTale-1.24.3.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEpGQ2xqS1dGaEdxWEFDaGxRa1BnUWh3WDlYUk5mNWFud0VkOXRPckRnK1hjdFNxckhIRVlXR2lqOEJoYkVvMXBWa0xjMUlZZmxjc2diME14NHBzZ3FVd2xiczV0YlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjU0NjMyCWZpbGU6U2NyZWVuVGFsZS0xLjI0LjMuYXBwLnRhci5negl2ZXJzaW9uOjEuMjQuMwphdnh3Z0NtTlI5Q0I5VWNzZzR0K1Z5d0MwejJmMVpqbEptc2VIWkdFMTQvTTlBOFo0WG9sd2taQzRPeW9QYUp4S1hucHpNQTFtQmVwK1VvTmFXa2RBUT09Cg=="
     }
   }
 }
