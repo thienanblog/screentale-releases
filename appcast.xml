@@ -7,6 +7,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>1.25.6</title>
+      <pubDate>Sun, 15 Nov 2026 07:44:44 GMT</pubDate>
+      <sparkle:version>312</sparkle:version>
+      <sparkle:shortVersionString>1.25.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v1.25.6</link>
+      <description>&lt;p&gt;ScreenTale 1.25.6 makes the recording clock start the moment recording does.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;After the countdown, the recording bar now leaves 0:00 as soon as ScreenTale starts recording. It could previously wait up to a second.&lt;/li&gt;&lt;li&gt;The clock now advances exactly with each recorded second, so the time on the bar matches the length of your recording.&lt;/li&gt;&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v1.25.6/ScreenTale-1.25.6.dmg" length="31387223" type="application/octet-stream" sparkle:edSignature="jLNZWuhjjNY5V+6HDC/B/4zW8fx5x7RAxCExqtQAyKlAcN4z2VXJUvWtw/v2Gkbi49StA/nPijH32jY9iAYaDw=="></enclosure>
+    </item>
+    <item>
       <title>1.25.5</title>
       <pubDate>Sun, 15 Nov 2026 05:33:06 GMT</pubDate>
       <sparkle:version>311</sparkle:version>
@@ -638,6 +650,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 2IQOsWvTQfPhgadT9aUHEig2LQ/0ytTl3eOHUu8tVlR/itZzqCX93Joqb08rn+MXwkNMuSdV+1K/W1TqvlYGDQ==
-length: 75338
+edSignature: AL+SgdIS2RXi0EgJCO5nN9wcBnD4qnbQnFi/e4if01n+Q1Zwi5iXDVLAtcvJr7sux77AjhPdU/eyCP2f315cAA==
+length: 76465
 -->
