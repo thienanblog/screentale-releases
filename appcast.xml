@@ -7,6 +7,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>1.25.5</title>
+      <pubDate>Sun, 15 Nov 2026 05:33:06 GMT</pubDate>
+      <sparkle:version>311</sparkle:version>
+      <sparkle:shortVersionString>1.25.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v1.25.5</link>
+      <description>&lt;p&gt;ScreenTale 1.25.5 makes the recording bars respond instantly, keeps every recording control visible and makes Move to Trash work with several recordings selected.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Hover highlights on the recording bar now follow the pointer instantly, even when you move quickly across its buttons. A highlight could previously stay stuck on a button if the pointer was already over the bar when it opened. That no longer happens.&lt;/li&gt;&lt;li&gt;Recording bar tooltips now behave like macOS tooltips. They appear after a short pause and switch instantly as you move between buttons. They no longer pop up while you sweep across the bar, and keyboard focus still shows them right away.&lt;/li&gt;&lt;li&gt;The recording bar now grows to fit its controls, so Stop, Start over and Cancel are never cut off. This holds in Vietnamese, with the camera preview button shown and after the clock passes one hour. If space still runs short, Start over and Cancel show as icons, and you can hover over them for their names.&lt;/li&gt;&lt;li&gt;In the Library, selecting several recordings and choosing Move to Trash now includes the recording open in the Editor, with one confirmation. ScreenTale closes it and opens a neighbouring recording. Previously nothing happened when the open recording was part of the selection.&lt;/li&gt;&lt;li&gt;Batch Move now always shows a confirmation that names any recording it has to leave out, instead of silently doing nothing.&lt;/li&gt;&lt;li&gt;Export and other highlighted buttons in the Editor keep their colour and stay readable when you hover over them.&lt;/li&gt;&lt;li&gt;Buttons, menus, tooltips and small labels in the Editor now share one consistent style. Small text in the Inspector and on the Timeline is slightly larger and easier to read.&lt;/li&gt;&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v1.25.5/ScreenTale-1.25.5.dmg" length="31386645" type="application/octet-stream" sparkle:edSignature="zwdR7KnCluICiRpwO3T7fRRVFkY4qU285K/Qdlor41wEkQvrLzqNY2appq2ndBpxO7tRAWAaPnc79gjktbTXAg=="></enclosure>
+    </item>
+    <item>
       <title>1.24.3</title>
       <pubDate>Sat, 14 Nov 2026 11:03:33 GMT</pubDate>
       <sparkle:version>304</sparkle:version>
@@ -626,6 +638,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Zuon/fndUrarA7sVMzQZeGEPxMSiTufpCkSgXRA3vq79+4GUWVEv02HjwTCL2JavjyohB6M5/zOeiGNvIcctCQ==
-length: 72792
+edSignature: 2IQOsWvTQfPhgadT9aUHEig2LQ/0ytTl3eOHUu8tVlR/itZzqCX93Joqb08rn+MXwkNMuSdV+1K/W1TqvlYGDQ==
+length: 75338
 -->
