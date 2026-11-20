@@ -7,6 +7,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>1.27.1</title>
+      <pubDate>Fri, 20 Nov 2026 10:53:04 GMT</pubDate>
+      <sparkle:version>316</sparkle:version>
+      <sparkle:shortVersionString>1.27.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v1.27.1</link>
+      <description>&lt;p&gt;ScreenTale 1.27.1 exports in the background, so you can keep editing other recordings while a video exports.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Exports now run in the background. After you start an export you can open and edit another recording right away. The recording being exported can still be played and saved, but editing it is locked until its export ends.&lt;/li&gt;&lt;li&gt;New Export Queue. It opens when an export starts and shows each export&amp;#x27;s progress bar, percentage, frames, time left and speed. Close it at any time and reopen it from the Export Queue button below Help in the Inspector&amp;#x27;s icon column; a badge shows how many exports are still active.&lt;/li&gt;&lt;li&gt;Exports run one at a time. Choose Run Now to start a waiting export beside the running one, or Cancel Export to stop it. Finished exports offer Show in Finder, Open and Remove, and Clear Finished tidies the list.&lt;/li&gt;&lt;li&gt;You can still record while exports run. The recording bar shows Exporting with the number of active exports, and warns that recording on a busy Mac may stutter or drift out of sync with the audio. Waiting exports start after the recording ends.&lt;/li&gt;&lt;li&gt;Quitting while an export runs now asks first: Keep Exporting, or Stop and Quit.&lt;/li&gt;&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v1.27.1/ScreenTale-1.27.1.dmg" length="31432406" type="application/octet-stream" sparkle:edSignature="nJHuMXsZLsvS2JQ1y+T68XkP9TASrfo6wP8y8+kO4X0G4sqimc6qwueXPPP/eqSczkIOpzGQ6q2mkzX1tpBiAA=="></enclosure>
+    </item>
+    <item>
       <title>1.26.1</title>
       <pubDate>Fri, 20 Nov 2026 08:39:39 GMT</pubDate>
       <sparkle:version>314</sparkle:version>
@@ -662,6 +674,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 7O/AJf+DdYCgRSm7LZl2vJVHA/Xt0x2B+40jRluVtTxohTlXHThE66zTU7HPOjiEHx5qYbJ8UP94KcYfcEHCDw==
-length: 78135
+edSignature: kqXQnnoLUp/gus+3turuSGK7szzgI8OMnu75YOdqgcuueLOUZ3fkt87Zlf5GAW2FsZ5apPEHirqF7tpOtrqPDA==
+length: 80160
 -->
