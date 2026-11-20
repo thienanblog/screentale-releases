@@ -7,6 +7,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>1.30.0</title>
+      <pubDate>Fri, 20 Nov 2026 18:07:59 GMT</pubDate>
+      <sparkle:version>320</sparkle:version>
+      <sparkle:shortVersionString>1.30.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v1.30.0</link>
+      <description>&lt;p&gt;ScreenTale 1.30.0 makes the Library easier to organize, brings recordings in from anywhere on your Mac, and adds recording controls to the menu bar.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Right-click menus throughout the Library. A folder offers Import Recordings Here…, New Folder…, Rename…, Show in Finder, Select All Recordings in Folder and Move Folder to Trash…. Recents and empty space offer Import Recordings…, New Folder… and Show Library in Finder. A recording gains a Move to submenu for Recents or any folder.&lt;/li&gt;&lt;li&gt;Moving a folder to the Trash now asks what to do with its recordings. By default they move to Recents first and only the folder goes to the Trash; tick &amp;quot;Also move the recordings in this folder to Trash&amp;quot; to remove both. Nothing is overwritten: a recording with the same name gets a number.&lt;/li&gt;&lt;li&gt;New Import Recordings…: choose one or more ScreenTale recordings anywhere on your Mac and bring them into Recents or a folder. Move is the default and uses no extra space; Copy keeps the original. A recording on another drive is copied, then its original goes to the Trash. Recordings made by earlier ScreenTale versions are imported as upgraded copies and their originals are kept.&lt;/li&gt;&lt;li&gt;Drag recordings from Finder onto Recents or a folder in the Library sidebar to import them.&lt;/li&gt;&lt;li&gt;A project you opened from outside the Library can be brought in with Import into Library…; after a Move it reopens from its new place.&lt;/li&gt;&lt;li&gt;New Record menu, and recording controls in the ScreenTale menu bar icon: Start Recording or Stop and Save, Pause and Resume, Start Over, Add Arrow…, Choose Area on Screen… and Show or Hide Recording Bar. The icon also lists your five most recent recordings.&lt;/li&gt;&lt;li&gt;The File menu adds New Recording… (⌘N), Open Project… (⌘O), Open Recent and Import Recordings… (⇧⌘I).&lt;/li&gt;&lt;li&gt;Fixed: the Preview no longer switches to &amp;quot;Preview unavailable&amp;quot; when playback reaches the end of a recording.&lt;/li&gt;&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v1.30.0/ScreenTale-1.30.0.dmg" length="31467781" type="application/octet-stream" sparkle:edSignature="v5cN5O46/TRjDtGuDXCy5zyQEgMIIuJFpEVXCeteLz+siFaUuvh9thP77ihl3EVnjXcLHIcFs6GhD+ZsBLMCAQ=="></enclosure>
+    </item>
+    <item>
       <title>1.27.1</title>
       <pubDate>Fri, 20 Nov 2026 10:53:04 GMT</pubDate>
       <sparkle:version>316</sparkle:version>
@@ -674,6 +686,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: kqXQnnoLUp/gus+3turuSGK7szzgI8OMnu75YOdqgcuueLOUZ3fkt87Zlf5GAW2FsZ5apPEHirqF7tpOtrqPDA==
-length: 80160
+edSignature: s2myP7KFQieMWNE9M8JDwYYJMZdqFHYdtycx3PTjilJ3lU0xvUlL9ilP/CS3cqwiQ8mOytzcKiDeZrRlNTSJAA==
+length: 82995
 -->
