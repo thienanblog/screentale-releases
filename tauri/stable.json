@@ -1,11 +1,11 @@
 {
-  "version": "1.25.6",
-  "notes": "ScreenTale 1.25.6 makes the recording clock start the moment recording does.\n\n- After the countdown, the recording bar now leaves 0:00 as soon as ScreenTale starts recording. It could previously wait up to a second.\n- The clock now advances exactly with each recorded second, so the time on the bar matches the length of your recording.\n",
-  "pub_date": "2026-11-15T07:44:44Z",
+  "version": "1.26.1",
+  "notes": "ScreenTale 1.26.1 keeps Display recordings the same size when the Dock changes, and saves files whose names contain dots.\n\n- New in Settings > Recording: Keep the Dock size. ScreenTale remembers the Dock's size and position, and puts the Dock back before each recording if it has changed since. Display recordings that leave the Dock out then keep the same dimensions from take to take, so they line up when joined. The option is off by default. While the Dock is put back it disappears for about a second.\n- Export, Save Subtitles, Save As and saving a diagnostic report now accept names that contain dots, such as v1.2 final. ScreenTale adds the right extension to the whole name, for example v1.2 final.mp4. It used to refuse to save these names.\n- The suggested export name no longer starts with a dot, which hid the exported file in Finder.\n",
+  "pub_date": "2026-11-20T08:39:39Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/thienanblog/screentale-releases/releases/download/v1.25.6/ScreenTale-1.25.6.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEpGQ2xqS1dGaEZPb1ZDOEpyNTgzNElGanBzc3Y1UGpMeXlkK0tTV3RsTzlodmtMVVFHRXczUFFwRVZqbjBhMFZjZ25CK2FmQjVHOXlxY2NZR3JkK1hpN1ovZ2JXY1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzI5MDQ1CWZpbGU6U2NyZWVuVGFsZS0xLjI1LjYuYXBwLnRhci5negl2ZXJzaW9uOjEuMjUuNgpodTl0VU5nUUJMeGhZOWJjTWdXNUxYaDQ2a0xtS2RKVGJVKzJGc1c5elBack4xUEZnd3FEMGJjR3lXVVlKT0FRWnljNytScUVvMGtEU2YxZVNLWkVEZz09Cg=="
+      "url": "https://github.com/thienanblog/screentale-releases/releases/download/v1.26.1/ScreenTale-1.26.1.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEpGQ2xqS1dGaEoyQ1ZFcElPQ212K3ZBNHVpSzVZYkFwaWZXa3lxY0VSVXpBcEVJTUt1bXYraVgzVFkwTkZ1QTJtUml5MXA0VldCdVVpTjdqbWprL3p4MlJQSk1LdmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTY0MjY4CWZpbGU6U2NyZWVuVGFsZS0xLjI2LjEuYXBwLnRhci5negl2ZXJzaW9uOjEuMjYuMQowbHZocXlZR20vT01oTjhmc1hPdndvSEtENUFheFVkL3Q0dUJMR2YrdDRveGtQYUcrRFNERmFybjFQbHZUT29oNzIvS0RJOXV1UDBRZ2VweUNUYVlDUT09Cg=="
     }
   }
 }

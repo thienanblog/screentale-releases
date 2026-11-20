@@ -7,6 +7,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>1.26.1</title>
+      <pubDate>Fri, 20 Nov 2026 08:39:39 GMT</pubDate>
+      <sparkle:version>314</sparkle:version>
+      <sparkle:shortVersionString>1.26.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v1.26.1</link>
+      <description>&lt;p&gt;ScreenTale 1.26.1 keeps Display recordings the same size when the Dock changes, and saves files whose names contain dots.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;New in Settings &amp;gt; Recording: Keep the Dock size. ScreenTale remembers the Dock&amp;#x27;s size and position, and puts the Dock back before each recording if it has changed since. Display recordings that leave the Dock out then keep the same dimensions from take to take, so they line up when joined. The option is off by default. While the Dock is put back it disappears for about a second.&lt;/li&gt;&lt;li&gt;Export, Save Subtitles, Save As and saving a diagnostic report now accept names that contain dots, such as v1.2 final. ScreenTale adds the right extension to the whole name, for example v1.2 final.mp4. It used to refuse to save these names.&lt;/li&gt;&lt;li&gt;The suggested export name no longer starts with a dot, which hid the exported file in Finder.&lt;/li&gt;&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v1.26.1/ScreenTale-1.26.1.dmg" length="31398687" type="application/octet-stream" sparkle:edSignature="H5eDwqfkx6NExNyPBBOtefJrN6PiKQUTIAP07ZskR0Vk11M5I4ytlH/4FPaKL9VWPlIUg8takzoXQ9Qai1+VAA=="></enclosure>
+    </item>
+    <item>
       <title>1.25.6</title>
       <pubDate>Sun, 15 Nov 2026 07:44:44 GMT</pubDate>
       <sparkle:version>312</sparkle:version>
@@ -650,6 +662,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: AL+SgdIS2RXi0EgJCO5nN9wcBnD4qnbQnFi/e4if01n+Q1Zwi5iXDVLAtcvJr7sux77AjhPdU/eyCP2f315cAA==
-length: 76465
+edSignature: 7O/AJf+DdYCgRSm7LZl2vJVHA/Xt0x2B+40jRluVtTxohTlXHThE66zTU7HPOjiEHx5qYbJ8UP94KcYfcEHCDw==
+length: 78135
 -->
