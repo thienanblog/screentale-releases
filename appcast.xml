@@ -7,6 +7,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>1.32.0</title>
+      <pubDate>Sat, 21 Nov 2026 08:07:02 GMT</pubDate>
+      <sparkle:version>328</sparkle:version>
+      <sparkle:shortVersionString>1.32.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v1.32.0</link>
+      <description>&lt;p&gt;ScreenTale 1.32.0 lets you export each clip on the Timeline as its own file, keeps the Library focused on the recording you have open, and gives buttons, dialogs and fields one consistent look.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;New Export Clip… and Export Selected Clips… in the right-click menu of a video clip on the Timeline. With two or more clips selected, choose Each clip separately, Merged into one file or Full timeline. Each clip becomes its own file, named after the project and the clip&amp;#x27;s place on the Timeline (for example &amp;quot;Product demo - Clip 2&amp;quot;). You can edit the name pattern and see every file name and duration before exporting, and you choose the folder once for the whole batch. A name that already exists gets &amp;quot; (2)&amp;quot;, so nothing is overwritten.&lt;/li&gt;&lt;li&gt;New Export… in the right-click menu of a recording in the Library. It opens that recording in the Editor with the Export dialog ready.&lt;/li&gt;&lt;li&gt;Opened Project now appears at the top of the Library, and only for a project outside the Library, with an &amp;quot;Outside Library&amp;quot; tag and an Import into Library… link right below it. When the open recording is in the Library, ScreenTale opens its folder, scrolls to it and marks it, so you always see which recording is open.&lt;/li&gt;&lt;li&gt;A cleaner look across the app. Dialogs and secondary buttons no longer have bright white outlines, hovering a button, row or menu item highlights it the same way everywhere, and dropdowns, segmented choices and checkboxes now match in the Export dialog and the Library.&lt;/li&gt;&lt;li&gt;Focus is easier to follow with the keyboard. One focus ring hugs the control or sits on a field&amp;#x27;s own border, and opening a dialog no longer draws a blue ring around the whole dialog.&lt;/li&gt;&lt;li&gt;Fixed: switching to another recording while the open one is exporting now works. Export saves your project first, so the exported file and the saved project always match. If the project cannot be saved, nothing is exported and the Export dialog explains why.&lt;/li&gt;&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v1.32.0/ScreenTale-1.32.0.dmg" length="31624900" type="application/octet-stream" sparkle:edSignature="z7QdOEr7722fBjyePdMRItv2A2cjrZaGdR3NmxSasr1ucO8WpmQG/70FZm21x2p24B5elOlZVcbAaj+yTa4jAA=="></enclosure>
+    </item>
+    <item>
       <title>1.30.0</title>
       <pubDate>Fri, 20 Nov 2026 18:07:59 GMT</pubDate>
       <sparkle:version>320</sparkle:version>
@@ -686,6 +698,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: s2myP7KFQieMWNE9M8JDwYYJMZdqFHYdtycx3PTjilJ3lU0xvUlL9ilP/CS3cqwiQ8mOytzcKiDeZrRlNTSJAA==
-length: 82995
+edSignature: c+l40CWG5b1CxEE/my9alfjoMhcQgLyy5fVz9wTt+T9USiFuHMNjjG73LRyTSDBmlZdmcRpfL1pBWf5ti0F/CA==
+length: 85850
 -->
