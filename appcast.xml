@@ -7,6 +7,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>1.36.1</title>
+      <pubDate>Mon, 23 Nov 2026 06:54:23 GMT</pubDate>
+      <sparkle:version>341</sparkle:version>
+      <sparkle:shortVersionString>1.36.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v1.36.1</link>
+      <description>&lt;p&gt;ScreenTale 1.36.1 can crop browser recordings to the web page, gives the Crop dialog exact values and a magnifier, and simplifies the recording bar.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;New Web page only option in the recording bar&amp;#x27;s Options menu. When you record one window of Safari or a Chromium-based browser, the new project opens with the video already cropped to the web page, without tabs, address bar or bookmarks bar. The whole window is still recorded, so you can change or remove the crop later in the Editor.&lt;/li&gt;&lt;li&gt;The Crop dialog now fills the Editor window. Type Left, Top, Width and Height in pixels or percent, nudge the box with the arrow keys (Shift moves 10 pixels), use Centre or Match output ratio, and check the edge in the Magnifier while you drag a handle.&lt;/li&gt;&lt;li&gt;Copy the Crop values and paste them into another project. If the source size differs, the crop is scaled to match. Apply to lets you crop This clip only, every clip from the Same recording, or Choose clips, all in one Undo step.&lt;/li&gt;&lt;li&gt;A simpler recording bar with one compact layout. The microphone level sits under the clock, Start over and Cancel are icons with tooltips, and the status dot pulses while recording. While a take is preparing, the dot&amp;#x27;s tooltip names the input it is still waiting for, such as Microphone or Camera. The annotation button is gone; use the Quick Annotation shortcut or Record &amp;gt; Add Arrow… instead.&lt;/li&gt;&lt;li&gt;Cancel now asks before moving the take to Trash, like Start over, and so does Record &amp;gt; Start Over. Turn off Ask before Cancel or Start over in Settings &amp;gt; Recording if you prefer no questions.&lt;/li&gt;&lt;li&gt;The &amp;quot;This source will be recorded&amp;quot; badge now sits just outside the top-right edge of the selected window or area, so it no longer covers the window&amp;#x27;s buttons and title. It moves aside when the pointer reaches it.&lt;/li&gt;&lt;li&gt;Fixed: an Entire App selection showed two frames, one around the whole display including the menu bar and one around the app&amp;#x27;s window. Only the app&amp;#x27;s windows are outlined now.&lt;/li&gt;&lt;li&gt;Fixed: a hidden camera bubble briefly flashed at the start and end of a Camera clip, and where two hidden Camera clips meet, in Preview and Export.&lt;/li&gt;&lt;li&gt;Fixed: an edit made right after opening a new recording, while automatic zooms were being placed, could be refused. Close and Quit also work again after a refused edit, and renaming the project no longer waits for Retry.&lt;/li&gt;&lt;li&gt;Fixed: dragging the recording bar, Trash and Start over could be refused during recording, and the notice that explained it was cut off.&lt;/li&gt;&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v1.36.1/ScreenTale-1.36.1.dmg" length="31662133" type="application/octet-stream" sparkle:edSignature="LoI0DImsT+KgffQN0NlJgbxEH8+aa9ELL/fvW+9sxW7SWzt/q10lWWlVZZ4048srcjXqMUyuxj8bxAMFMH47CA=="></enclosure>
+    </item>
+    <item>
       <title>1.32.0</title>
       <pubDate>Sat, 21 Nov 2026 08:07:02 GMT</pubDate>
       <sparkle:version>328</sparkle:version>
@@ -698,6 +710,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: c+l40CWG5b1CxEE/my9alfjoMhcQgLyy5fVz9wTt+T9USiFuHMNjjG73LRyTSDBmlZdmcRpfL1pBWf5ti0F/CA==
-length: 85850
+edSignature: OmvJRSHxY1tddR41i+Ij+QdI8yOGq8RNumI0WAJ26tDh2VMkMSl4ymSSXLBSdOP4DaBFElbMG/rbtiQlLql8DA==
+length: 89341
 -->
