@@ -7,6 +7,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Updates for ScreenTale</description>
     <language>en</language>
     <item>
+      <title>1.50.0</title>
+      <pubDate>Thu, 26 Nov 2026 09:12:26 GMT</pubDate>
+      <sparkle:version>359</sparkle:version>
+      <sparkle:shortVersionString>1.50.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/thienanblog/screentale-releases/releases/tag/v1.50.0</link>
+      <description>&lt;p&gt;ScreenTale 1.50.0 records your camera with a voice-over, edits several Timeline blocks at once, and makes picking a window or an area faster and more exact.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Voice-over has its own tab in the Inspector, also opened by Record &amp;gt; Record Voice-over. Your camera and microphone are ready while the tab is shown, with a countdown and a pre-roll, and Preview plays along while you record, so you narrate what you see. Pause, Stop and save, and Discard take are in the tab and in the Timeline Toolbar.&lt;/li&gt;&lt;li&gt;Record camera too films you during a voice-over. The take is saved as one camera clip that carries your voice, so Split, Delete, moving and speed changes keep picture and sound together. Choose Extract Audio in the Inspector or the right-click menu when you want the voice as its own Audio clip. A take without the camera is still a separate Audio clip. ScreenTale remembers your camera, microphone, countdown and pre-roll choices for every project.&lt;/li&gt;&lt;li&gt;If a take cannot start, the Voice-over tab now says why: Screen Recording, Microphone or Camera access that is still missing, each with Grant access, another recording that is running, or a microphone or camera that could not open.&lt;/li&gt;&lt;li&gt;Edit several Timeline blocks together. Select Audio clips to set Mute and Volume, Camera clips to set Show camera and the layout, Zoom blocks to set the zoom level and Follow the cursor, or annotations of the same type to change their style. Differing values read Mixed, and each change is one Undo step.&lt;/li&gt;&lt;li&gt;New Split shortcuts: Q is Split and Delete Left and W is Split and Delete Right while the Timeline has focus, with no clip selected first. E is no longer used.&lt;/li&gt;&lt;li&gt;Command-B always cuts at the playhead. When the selected clip is not under the playhead, or a marker or effect is selected, it cuts the main video there instead of doing nothing.&lt;/li&gt;&lt;li&gt;Split includes has a new Audio blocks option, off by default. Turn it on and Split also cuts every Audio clip under the playhead, and Split and Delete Left or Right removes the same time from those clips and moves the audio after it along with the video, so a voice-over stays in sync.&lt;/li&gt;&lt;li&gt;The Editor remembers its window size, including a window that fills the screen. It returns to the default size only when the saved size no longer fits the display.&lt;/li&gt;&lt;li&gt;Web page only is now a switch in the One Window picker. Hover a Safari or Chromium-based browser to see the page that will be kept, with its size. The crop also leaves out the dark corners below a rounded window.&lt;/li&gt;&lt;li&gt;Draw Area opens with a ready frame: your last area on that display, or a centred one. The handles are easier to see and grab, the frame snaps to display edges, the Dock, windows and web page edges (hold Command to place it freely), and a magnifier shows the exact pixel while you drag. Narrow area on the recording bar starts from the whole display so you only drag the edges in.&lt;/li&gt;&lt;li&gt;The Crop box snaps to edges found in the picture, such as window borders, toolbars and page edges. Hold Command to place it freely.&lt;/li&gt;&lt;li&gt;The floating camera preview moves away from the pointer while you set up and during the countdown, not only while recording, when Avoid the pointer is on.&lt;/li&gt;&lt;li&gt;Fixed: the Crop dialog showed no picture of the clip.&lt;/li&gt;&lt;li&gt;Fixed: Mute on several selected Audio clips muted only one of them.&lt;/li&gt;&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/thienanblog/screentale-releases/releases/download/v1.50.0/ScreenTale-1.50.0.dmg" length="31909487" type="application/octet-stream" sparkle:edSignature="Yu9xTuCi3vX/w9r0dhxoUvme55GOMLWa+w+i4dJnBZKz3CauggE6OhGHIr4wJ1u9N7pT9qpfkOBsMFgtLQ4mBg=="></enclosure>
+    </item>
+    <item>
       <title>1.36.1</title>
       <pubDate>Mon, 23 Nov 2026 06:54:23 GMT</pubDate>
       <sparkle:version>341</sparkle:version>
@@ -710,6 +722,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: OmvJRSHxY1tddR41i+Ij+QdI8yOGq8RNumI0WAJ26tDh2VMkMSl4ymSSXLBSdOP4DaBFElbMG/rbtiQlLql8DA==
-length: 89341
+edSignature: K8SXhguvJbyTT2nuVMZ/Kjc0/xJxlMk9E566iafkI48tnk5vAMd/fQ4YheGPgq62A7K7c2flnYrJDnmf5j0FCg==
+length: 93654
 -->
